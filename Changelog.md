@@ -13,6 +13,7 @@ Changes
 
    - New crafts  
       - Paladium Chest
+      - Paladium Spike
  
    - New recipes to the recipe book
 
@@ -22,6 +23,13 @@ Additions
       - Raw Marble  
       - Marble Bricks
       - Hollow birch
+      
+   - Items
+      - Paladium Sword  
+      - Paladium Pickaxe
+      - Paladium Axe
+      - Paladium Hammer
+      - Paladium Shovel
      
 Deletions
 
