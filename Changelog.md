@@ -14,7 +14,10 @@ Changes
    - New crafts  
       - Paladium Chest
       - Paladium Spike
- 
+    
+   - Renamed item 
+      - Killer Sword to Elucidator
+     
    - New recipes to the recipe book
 
 Additions
