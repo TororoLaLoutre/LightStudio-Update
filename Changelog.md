@@ -37,7 +37,10 @@ Additions
       - Paladium Axe
       - Paladium Hammer
       - Paladium Shovel
-     
+
+   - Entity
+      -Sculk Zombie
+      
 Deletions
 
    - Blocks
