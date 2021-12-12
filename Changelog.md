@@ -39,7 +39,7 @@ Additions
       - Paladium Shovel
 
    - Entity
-      -Sculk Zombie
+      - Sculk Zombie
       
 Deletions
 
