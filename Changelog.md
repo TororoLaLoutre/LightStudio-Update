@@ -10,6 +10,10 @@ Changes
       - Killer Sword
       - Ores Dusts
       - Trash Can
+      - Platinum Gear
+      - Tin Gear
+      - Steel Gear
+      - Copper Gear
 
    - New crafts  
       - Paladium Chest
