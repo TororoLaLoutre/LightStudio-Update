@@ -15,6 +15,9 @@ Changes
       - Steel Gear
       - Copper Gear
       - Rubber
+      - Alloy Smelter
+      - Pulverizer
+      - Metallurgic Infuser
 
    - New crafts  
       - Paladium Chest
