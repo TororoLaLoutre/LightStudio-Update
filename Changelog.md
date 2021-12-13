@@ -14,6 +14,7 @@ Changes
       - Tin Gear
       - Steel Gear
       - Copper Gear
+      - Rubber
 
    - New crafts  
       - Paladium Chest
