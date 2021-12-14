@@ -18,6 +18,7 @@ Changes
       - Alloy Smelter
       - Pulverizer
       - Metallurgic Infuser
+      - Hazmat Armor
 
    - New crafts  
       - Paladium Chest
