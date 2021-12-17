@@ -39,6 +39,10 @@ Additions
       - Paladium Axe
       - Paladium Hammer
       - Paladium Shovel
+      - Garnite Helmet
+      - Garnite Chestplate
+      - Garnite Legging
+      - Garnite Boots
 
    - Entity
       - Sculk Zombie
