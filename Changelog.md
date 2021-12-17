@@ -32,6 +32,7 @@ Additions
       - Raw Marble  
       - Marble Bricks
       - Hollow birch
+      - Garnite Ore
       
    - Items
       - Paladium Sword  
