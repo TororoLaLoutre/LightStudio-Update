@@ -23,6 +23,12 @@ Changes
    - New crafts  
       - Paladium Chest
       - Paladium Spike
+      - Nametag
+      - Cobweb
+      - String
+      - Bell
+      - Trident
+      - Saddle
      
    - New recipes to the recipe book
 
