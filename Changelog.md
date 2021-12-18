@@ -1,4 +1,14 @@
 # Changelog - LightStudio Update
+## 1.17 -  v.0.1.0-001
+(changelog not final)
+
+Changes
+   - Conversion 1.16.5 to 1.17.1
+
+Additions
+
+Deletions
+
 ## 1.16 -  V.0.3.1-004
 
 Changes
