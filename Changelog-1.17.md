@@ -4,6 +4,8 @@
 
 Changes
    - Sculk Zombie now spawn naturaly (in the deepdark)
+   - Sculk Zombie deal more damage
+   - Sculk Zombie has more health
 
 ## Beta 1.17 -  V.0.1.0-001
 
