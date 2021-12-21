@@ -1,5 +1,5 @@
 # Changelog - LightStudio Update
-## Beta 1.17 -  V.0.1.0-002
+## 1.17 -  V.0.1.1-001
 (Changelog not final)
 
 Changes
@@ -7,6 +7,10 @@ Changes
       - spawn naturaly (in the deepdark)
       - deal more damage
       - has more health
+
+Additions
+   - Biomes 
+      - Old Growth Birch Forest
 
 ## Beta 1.17 -  V.0.1.0-001
 
