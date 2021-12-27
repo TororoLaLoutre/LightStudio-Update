@@ -11,6 +11,9 @@ Changes
 Additions
    - Biomes 
       - Old Growth Birch Forest
+  
+   - Items    
+      - Nuggets of Experience (Right click will spawn experience orbs)
 
 ## Beta 1.17 -  V.0.1.0-001
 
