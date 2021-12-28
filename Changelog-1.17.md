@@ -8,6 +8,10 @@ Changes
       - deal more damage
       - has more health
 
+   - Hitbox
+      - Trash Can
+      - Metal Crafting Table
+
 Additions
    - Biomes 
       - Old Growth Birch Forest
