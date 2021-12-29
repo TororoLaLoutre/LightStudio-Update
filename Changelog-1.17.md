@@ -11,6 +11,13 @@ Changes
    - Hitbox
       - Trash Can
       - Metal Crafting Table
+      
+   - New Craft
+      - Chainmail Helmet
+      - Chainmail Chestplate
+      - Chainmail Legging
+      - Chainmail Boots
+      - Chainmail Plate
 
 Additions
    - Biomes 
@@ -18,6 +25,7 @@ Additions
   
    - Items    
       - Nuggets of Experience (Right click will spawn experience orbs)
+      - Chainmail Plate
 
 ## Beta 1.17 -  V.0.1.0-001
 
