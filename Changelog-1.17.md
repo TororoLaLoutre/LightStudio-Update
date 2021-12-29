@@ -2,7 +2,7 @@
 ## 1.17 -  V.0.1.1-001
 (Changelog not final)
 
-Changes
+#### Changes
    - Sculk Zombie 
       - spawn naturaly (in the deepdark)
       - deal more damage
@@ -19,26 +19,23 @@ Changes
       - Chainmail Boots
       - Chainmail Plate
 
-Additions
-   - Biomes 
-      - Old Growth Birch Forest
-  
+#### Additions
    - Items    
       - Nuggets of Experience (Right click will spawn experience orbs)
       - Chainmail Plate
 
 ## Beta 1.17 -  V.0.1.0-001
 
-Changes
+#### Changes
    - Conversion 1.16.5 to 1.17.1
 
 ## Version -  Serial Number
 
-Changes
+#### Changes
 
-Additions
+#### Additions
 
-Deletions
+#### Deletions
 
 
 
