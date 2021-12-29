@@ -1,7 +1,7 @@
 # Changelog - LightStudio Update
 ## 1.16 -  V.0.3.1-004
 
-Changes
+#### Changes
 
    - New textures
       - Platinum Ore
@@ -30,7 +30,7 @@ Changes
      
    - New recipes to the recipe book
 
-Additions
+#### Additions
 
    - Blocks
       - Raw Marble  
@@ -52,10 +52,9 @@ Additions
    - Entity
       - Sculk Zombie
       
-Deletions
+#### Deletions
 
    - Blocks
-   
       - Aluminium  
       - Ruby
       - Obsidian door
@@ -63,11 +62,11 @@ Deletions
 
 ## Version -  Serial Number
 
-Changes
+#### Changes
 
-Additions
+#### Additions
 
-Deletions
+#### Deletions
 
 
 
