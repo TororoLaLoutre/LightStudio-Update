@@ -24,6 +24,11 @@
       - Nuggets of Experience (Right click will spawn experience orbs)
       - Chainmail Plate
 
+#### Deletions
+   - Items    
+      - Jail Door
+
+
 ## Beta 1.17 -  V.0.1.0-001
 
 #### Changes
