@@ -24,7 +24,7 @@
       - Nuggets of Experience (Right click will spawn experience orbs)
       - Chainmail Plate
       - Recipe Book (in dev)
-      - Magical Water Bucket
+      - Magical Water Bucket (in dev)
 
 #### Deletions
    - Items    
