@@ -12,12 +12,15 @@
       - Trash Can
       - Metal Crafting Table
       
-   - New Craft
+   - New Crafts
       - Chainmail Helmet
       - Chainmail Chestplate
       - Chainmail Legging
       - Chainmail Boots
       - Chainmail Plate
+
+  - New Textures
+      - Killer Sword
 
 #### Additions
    - Items    
