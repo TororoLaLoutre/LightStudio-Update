@@ -21,8 +21,7 @@
 
   - New Textures
       - Killer Sword
-      - Fake Water Bucket
-
+      - FakeSulfuric
 #### Additions
    - Items    
       - Nuggets of Experience (Right click will spawn experience orbs)
