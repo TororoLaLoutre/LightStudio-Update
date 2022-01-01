@@ -21,6 +21,7 @@
 
   - New Textures
       - Killer Sword
+      - Fake Water Bucket
 
 #### Additions
    - Items    
