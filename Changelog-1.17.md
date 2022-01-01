@@ -28,7 +28,7 @@
       - Chainmail Plate
       - Recipe Book (in dev)
       - Magical Water Bucket 
-      - New Tool HAmmer
+      - New Tool Hammer
 
 #### Deletions
    - Items    
