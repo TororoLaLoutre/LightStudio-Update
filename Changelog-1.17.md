@@ -25,10 +25,12 @@
       - Chainmail Plate
       - Recipe Book (in dev)
       - Magical Water Bucket (in dev)
+      - New Tool HAmmer
 
 #### Deletions
    - Items    
       - Jail Door
+      - Old Tool Hammer
 
 
 ## Beta 1.17 -  V.0.1.0-001
