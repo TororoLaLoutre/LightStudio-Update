@@ -31,6 +31,7 @@
       - Recipe Book (in dev)
       - Magical Water Bucket 
       - New Tool Hammer
+      - Recipe Block
 
 #### Deletions
    - Items    
