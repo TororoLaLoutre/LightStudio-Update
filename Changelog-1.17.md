@@ -32,11 +32,14 @@
       - Magical Water Bucket 
       - New Tool Hammer
       - Recipe Block
+      - Iron Plate
 
 #### Deletions
    - Items    
       - Jail Door
       - Old Tool Hammer
+      - Crimson chest
+      - Warped chest
 
 
 ## Beta 1.17 -  V.0.1.0-001
