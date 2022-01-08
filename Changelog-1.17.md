@@ -33,6 +33,8 @@
       - New Tool Hammer
       - Recipe Block
       - Iron Plate
+      - Raw Platinum
+      - Raw Platinum Block
 
 #### Deletions
    - Items    
