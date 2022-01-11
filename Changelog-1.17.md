@@ -1,4 +1,10 @@
 # Changelog - LightStudio Update
+## 1.17 -  V.0.1.1-002
+
+#### Changes
+   - Recipe Book (in dev)
+
+
 ## 1.17 -  V.0.1.1-001
 
 #### Changes
