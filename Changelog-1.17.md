@@ -7,6 +7,8 @@
 #### Deletions
    - Items    
       - Silver Dust
+      - Raw Tin
+      - Raw Tin Block
 
 ## 1.17 -  V.0.1.1-001
 
