@@ -3,7 +3,10 @@
 
 #### Changes
    - Recipe Book (in dev)
-
+   
+#### Deletions
+   - Items    
+      - Silver Dust
 
 ## 1.17 -  V.0.1.1-001
 
