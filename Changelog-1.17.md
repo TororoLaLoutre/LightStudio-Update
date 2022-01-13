@@ -3,7 +3,7 @@
 
 #### Changes
   - Items
-   - Recipe Book (in dev)
+      - Recipe Book (in dev)
 
   - New Textures
       - Killer Sword
