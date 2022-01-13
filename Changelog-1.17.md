@@ -2,7 +2,11 @@
 ## 1.17 -  V.0.1.1-002
 
 #### Changes
+  - Items
    - Recipe Book (in dev)
+
+  - New Textures
+      - Killer Sword
    
 #### Deletions
    - Items    
