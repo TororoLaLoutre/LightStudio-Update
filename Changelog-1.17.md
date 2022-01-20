@@ -1,4 +1,14 @@
 # Changelog - LightStudio Update
+## 1.17 -  V.0.1.1-003
+
+#### Changes
+  - Items
+      - Recipe Book (in dev)
+   
+#### Deletions
+   - Items    
+      - All Doors
+      - 
 ## 1.17 -  V.0.1.1-002
 
 #### Changes
