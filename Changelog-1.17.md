@@ -1,4 +1,14 @@
 # Changelog - LightStudio Update
+## 1.17 -  V.0.1.1-004
+
+#### Changes
+   - Sculk Zombie 
+      - has more health
+
+#### Additions
+   - Blocks
+     - Loot Chest (in dev)
+
 ## 1.17 -  V.0.1.1-003
 
 #### Changes
@@ -7,8 +17,8 @@
    
 #### Deletions
    - Items    
-      - All Doors
-      - 
+      - All Doors (except bamboo door)
+  
 ## 1.17 -  V.0.1.1-002
 
 #### Changes
