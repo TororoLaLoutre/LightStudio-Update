@@ -8,6 +8,8 @@
 #### Additions
    - Blocks
      - Loot Chest (in dev)
+     - Diamond Generator
+     - Gold Generator
 
 ## 1.17 -  V.0.1.1-003
 
