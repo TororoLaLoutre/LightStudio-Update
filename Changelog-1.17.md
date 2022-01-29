@@ -4,13 +4,25 @@
 #### Changes
    - Sculk Zombie 
       - has more health
+      - All dust Ingot has been rename to Crushed Ingot
+      - New textures for all Dusts
+      - Recipe Book (in pause)
 
 #### Additions
    - Blocks
      - Loot Chest (in dev)
      - Diamond Generator
      - Gold Generator
+     - Grave (spawn when a player died)
+     - Witherbone Fossils
 
+   - Items
+     - Witherbone  
+
+#### Deletions
+   - Entity   
+      - Brown Bear
+ 
 ## 1.17 -  V.0.1.1-003
 
 #### Changes
