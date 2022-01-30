@@ -20,12 +20,13 @@
      - Redwood Log
      - Stripped Redwood Log
      - Redwood Planks
+     - Redwood Leaves
 
    - Items
      - Witherbone  
 
    - Biomes
-     - Redwood
+     - Redwood Forest
 
 #### Deletions
    - Entity   
