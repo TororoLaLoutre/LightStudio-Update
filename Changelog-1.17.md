@@ -30,7 +30,8 @@
 
 #### Deletions
    - Entity   
-      - Brown Bear
+      - Brown Bear 
+      - Mummy
  
 ## 1.17 -  V.0.1.1-003
 
