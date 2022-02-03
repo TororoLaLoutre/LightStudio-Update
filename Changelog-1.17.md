@@ -13,6 +13,7 @@
      - Loot Chest (in dev)
      - Diamond Generator
      - Gold Generator
+     - Emerald Generator
      - Grave (spawn when a player died)
      - Witherbone Fossils
      - Teleport Pad (to get tp to the End)
