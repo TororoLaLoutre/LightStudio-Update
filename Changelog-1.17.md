@@ -90,7 +90,7 @@
       - Recipe Book (in dev)
       - Magical Water Bucket 
       - New Tool Hammer
-      - Recipe Block
+      - Recipe Block (Like recipe book but it's a block)
       - Iron Plate
       - Raw Platinum
       - Raw Platinum Block
