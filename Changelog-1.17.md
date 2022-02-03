@@ -23,6 +23,10 @@
      - Stripped Redwood Log
      - Redwood Planks
      - Redwood Leaves
+     - Stone Chest
+     - Diorite Chest
+     - Andesite Chest
+     - Calcite Chest
 
    - Items
      - Witherbone  
