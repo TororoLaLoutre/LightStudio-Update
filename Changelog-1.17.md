@@ -4,6 +4,7 @@
 #### Changes
    - Sculk Zombie  
       - has more health
+      - deal more damage
    - All dust Ingot has been rename to Crushed Ingot
    - New textures for all Dusts
    - Recipe Book (in pause)
