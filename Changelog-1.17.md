@@ -1,5 +1,5 @@
 # Changelog - LightStudio Update
-## 1.17 -  V.0.1.1-004
+## 1.17 -  V.0.1.2-001
 
 #### Changes
    - Sculk Zombie  
