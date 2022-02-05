@@ -29,7 +29,11 @@
      - Calcite Chest
 
    - Items
-     - Witherbone  
+     - Witherbone
+     - Gold Knife
+     - Copper Knife
+     - Diamond Knife
+     - Netherite Knife  
 
    - Biomes
      - Redwood Forest
@@ -38,6 +42,8 @@
    - Entity   
       - Brown Bear 
       - Mummy
+   - Items   
+      - Diamond Dagger
  
 ## 1.17 -  V.0.1.1-003
 
