@@ -34,6 +34,7 @@
      - Copper Knife
      - Diamond Knife
      - Netherite Knife  
+     - Clear Shard (= Glass Shard)
 
    - Biomes
      - Redwood Forest
