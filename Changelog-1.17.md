@@ -27,6 +27,7 @@
      - Diorite Chest
      - Andesite Chest
      - Calcite Chest
+     - Dollars Bag
 
    - Items
      - Witherbone
@@ -35,6 +36,8 @@
      - Diamond Knife
      - Netherite Knife  
      - Glass Shard 
+     - Dollar Bill
+     - Dollars Stack
 
    - Biomes
      - Redwood Forest
