@@ -28,6 +28,8 @@
      - Andesite Chest
      - Calcite Chest
      - Dollars Bag
+     - Mud
+     - Mud Bricks
 
    - Items
      - Witherbone
@@ -38,9 +40,20 @@
      - Glass Shard 
      - Dollar Bill
      - Dollars Stack
+     - Mud ball
+     - Mud Brick
+     - Fried Egg
+     - Mud Bucket
 
    - Biomes
      - Redwood Forest
+     - Mangrove
+
+   - Fluids
+     - Mud
+   
+ - Entity   
+      - Warden (little bit bug)
 
 #### Deletions
    - Entity   
