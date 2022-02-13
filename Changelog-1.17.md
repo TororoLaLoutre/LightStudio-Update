@@ -52,8 +52,14 @@
    - Fluids
      - Mud
    
- - Entity   
+   - Entities   
       - Warden (little bit bug)
+
+   - Paintings   
+      - Skyblock
+      - Daybreak
+      - Enderman
+      - Crimson taiga
 
 #### Deletions
    - Entity   
