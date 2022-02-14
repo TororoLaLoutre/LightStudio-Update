@@ -30,6 +30,9 @@
      - Dollars Bag
      - Mud
      - Mud Bricks
+     - Rockpile Two
+     - Rockpile Three
+     - Rock Pebble
 
    - Items
      - Witherbone
@@ -44,6 +47,8 @@
      - Mud Brick
      - Fried Egg
      - Mud Bucket
+     - Enderite Knife
+     - Stone Rock
 
    - Biomes
      - Redwood Forest
