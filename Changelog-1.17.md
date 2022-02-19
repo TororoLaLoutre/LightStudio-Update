@@ -46,7 +46,6 @@
      - Mud ball
      - Mud Brick
      - Fried Egg
-     - Mud Bucket
      - Enderite Knife
      - Stone Rock
 
@@ -54,9 +53,6 @@
      - Redwood Forest
      - Mangrove
 
-   - Fluids
-     - Mud
-   
    - Entities   
       - Warden (little bit bug)
 
