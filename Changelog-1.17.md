@@ -1,4 +1,9 @@
 # Changelog - LightStudio Update
+## 1.17 -  V.0.1.3-002
+
+#### Changes
+   - /spawn (to be teleport to the spawn)
+  
 ## 1.17 -  V.0.1.2-001
 
 #### Changes
