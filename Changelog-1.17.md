@@ -11,6 +11,7 @@
 #### Deletions
    - Entity   
       - Warden
+      - Mummy
 
    - Blocks  
       - Mud
