@@ -3,6 +3,10 @@
 
 #### Changes
    - /spawn (to be teleport to the spawn)
+
+#### Additions
+   - Items
+     - Glass shard (for all types of stainted glass)
   
 ## 1.17 -  V.0.1.2-001
 
