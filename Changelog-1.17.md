@@ -11,6 +11,14 @@
 #### Deletions
    - Entity   
       - Warden
+
+   - Blocks  
+      - Mud
+      - Mud Brick
+
+   - items   
+      - Mudball
+      - Mud bricks
   
 ## 1.17 -  V.0.1.2-001
 
