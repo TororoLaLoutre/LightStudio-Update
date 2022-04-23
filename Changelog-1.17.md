@@ -7,6 +7,10 @@
 #### Additions
    - Items
      - Glass shard (for all types of stainted glass)
+
+#### Deletions
+   - Entity   
+      - Warden
   
 ## 1.17 -  V.0.1.2-001
 
