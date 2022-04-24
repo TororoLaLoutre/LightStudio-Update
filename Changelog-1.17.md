@@ -28,11 +28,17 @@
       - Road Marking (in white and yellow)
       - Road Block
       - Kitchen Furniture (counter and cupboard)
+      - Redwood Planks
+      - Redwood Leaves
+      - Redwood Logs
 
    - items   
       - Mudball
       - Mud bricks
       - Steel dust
+      
+   - Biomes
+     - Redwood Forest
   
 ## 1.17 -  V.0.1.2-001
 
