@@ -17,6 +17,8 @@
       - Mud
       - Mud Brick
       - Red Button
+      - Road marking (in white and yellow)
+      - Road Block
 
    - items   
       - Mudball
