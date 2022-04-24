@@ -17,8 +17,9 @@
       - Mud
       - Mud Brick
       - Red Button
-      - Road marking (in white and yellow)
+      - Road Marking (in white and yellow)
       - Road Block
+      - Kitchen Furniture (counter and cupboard)
 
    - items   
       - Mudball
