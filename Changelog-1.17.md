@@ -3,7 +3,15 @@
 
 #### Changes
    - /spawn (to be teleport to the spawn)
-
+   - Rename DeepDark dimension to The Depth
+   - Iron ores no longer generates in The Depth
+   - Coal ores no longer generates in The Depth
+   - Redstone ores no longer generates in The Depth
+   - Lapis ores no longer generates in The Depth
+   - Copper ores no longer generates in The Depth
+   - Steel no longer work in the Pulverizer
+   - Recipe Book Update for the Pulverizer
+   
 #### Additions
    - Items
      - Glass shard (for all types of stainted glass)
@@ -24,6 +32,7 @@
    - items   
       - Mudball
       - Mud bricks
+      - Steel dust
   
 ## 1.17 -  V.0.1.2-001
 
