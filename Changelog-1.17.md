@@ -15,6 +15,10 @@
 #### Additions
    - Items
      - Glass shard (for all types of stainted glass)
+     - Master Wand
+     - Wand Of Speed
+     - Wand Of Strength
+     - Healing Wand
 
 #### Deletions
    - Entity   
@@ -37,6 +41,10 @@
       - Mudball
       - Mud bricks
       - Steel dust
+      - Stick Of God
+      - Speed Stick
+      - Strength Stick
+      - Heal Stick
       
    - Biomes
      - Redwood Forest
