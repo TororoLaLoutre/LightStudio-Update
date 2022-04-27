@@ -31,6 +31,7 @@
       - Redwood Planks
       - Redwood Leaves
       - Redwood Logs
+      - Sculk Block
 
    - items   
       - Mudball
