@@ -15,6 +15,11 @@
      - Recipe Book Update for the Pulverizer
   - New Crafts
      - Recipe Book
+  - Paladium
+     - Paladium Ore generates in the Overworld
+     - New texture for Paladium Ore
+     - Nether Paladium Ore no longer generates in the Nether
+     - Deepslate Paladium Ore no longer generates in the Overworld
 
 #### Additions
    - Items
@@ -23,6 +28,10 @@
      - Wand Of Speed
      - Wand Of Strength
      - Healing Wand
+    
+   - Blocks
+     - Nether Paladium Ore
+     - Deepslate Paladium Ore
 
 #### Deletions
    - Entity   
