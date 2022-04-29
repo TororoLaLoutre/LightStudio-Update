@@ -20,6 +20,7 @@
      - New texture for Paladium Ore
      - Nether Paladium Ore no longer generates in the Nether
      - Deepslate Paladium Ore no longer generates in the Overworld
+  - New Texture for Recipe Book
 
 #### Additions
    - Items
