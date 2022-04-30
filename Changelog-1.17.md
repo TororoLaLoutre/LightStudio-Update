@@ -33,6 +33,9 @@
    - Blocks
      - Nether Paladium Ore
      - Deepslate Paladium Ore
+     
+   - Entity   
+      - Foxhound (beta phase)
 
 #### Deletions
    - Entity   
