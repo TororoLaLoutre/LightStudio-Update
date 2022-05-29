@@ -6,11 +6,13 @@
    - Modification of the generation of ores
    - Rename Garnite Ore to Deepslate Garnite Ore
    - Rename Platinum Ore to Deepslate Platinum Ore
+   - Rename Findium Ore to Deepslate Findium Ore
 
 #### Additions
    - Blocks
      - Deepslate Garnite Ore
      - Deepslate Platinum Ore
+     - Deepslate Findium Ore
      
 ## Version -  Serial Number
 
