@@ -7,6 +7,7 @@
    - Rename Garnite Ore to Deepslate Garnite Ore
    - Rename Platinum Ore to Deepslate Platinum Ore
    - Rename Findium Ore to Deepslate Findium Ore
+   - New texture for Deepslate Platinum Ore
 
 #### Additions
    - Blocks
