@@ -1,4 +1,4 @@
-# Changelog - LightStudio Update
+# Changelog - LightStudio Update [DISCONTINUED]
 ## 1.17 -  V.0.1.3-002
 
 #### Changes
