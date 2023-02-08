@@ -1,5 +1,5 @@
 # Changelog - LightStudio Update [DISCONTINUED]
-## 1.16 -  V.0.3.1-004
+## 1.16 - V.0.3.1-004
 
 #### Changes
 
