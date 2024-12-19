@@ -1,4 +1,4 @@
-# Changelog - LightStudio Update
+# Changelog - LightStudio Update [DISCONTINUED]
 ## 1.19.2 -  V.1.1.0-001
 
 #### Changes
