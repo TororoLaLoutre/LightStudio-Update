@@ -8,8 +8,10 @@
 ## 1.20.1 -  V.1.5.1-00? - In developement
 
 #### Changes
-   - Craft
+   - Crafts
      - Road Block
+   - Textures
+     - xx
 
 #### Additions
    - Items
@@ -31,7 +33,7 @@
    - items   
       - Bitumen
 
-   - Other
+   - Others
      - Advancement
        - Roadworks
        - Creative
