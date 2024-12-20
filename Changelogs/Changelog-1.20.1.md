@@ -28,7 +28,7 @@
       - xx
 
    - Blocks  
-      - xx
+      - Laboratory Door
 
    - items   
       - Bitumen
