@@ -9,16 +9,26 @@
 
 #### Changes
    - Crafts
-     - Road Block
+     - Road Blocks
    - Textures
-     - xx
+     - Bookshelf Spruce Door
 
 #### Additions
    - Items
-     - Raw Bitumen
-    
+      - Raw Bitumen
+      - Traffic Sign
+         - 22 Circle Sign
+         - ?? Square Sign
+         - ?? Triangle Sign
+         - 1 Octagon Sign
+         - 1 Triangle Down Sign
+         - 2 Diamond Sign
+         - ?? Misc Sign
+         - ?? Small Rectangle Sign
+         - ?? Rectangle Sign
+
    - Blocks
-     - Bitumen Ore (generate from Y:55 to Y:75, 1 per chunk and max 25 per vein)
+      - Bitumen Ore (generate from Y:55 to Y:75, 1 per chunk and max 25 per vein)
      
    - Entity   
       - xx
@@ -34,9 +44,9 @@
       - Bitumen
 
    - Others
-     - Advancement
-       - Roadworks
-       - Creative
-       - Food
-       - Ore
-       - Music Disc
+      - Advancement
+         - Roadworks
+         - Creative
+         - Food
+         - Ore
+         - Music Disc
