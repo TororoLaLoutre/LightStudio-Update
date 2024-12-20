@@ -3,4 +3,3 @@
 # LightStudio Update - 1.20.1
 This mod is for 1.20.1 includes blocks, items, food, ores, dimension, and more to come 
 
-## Roadmap: https://i8.ae/NYYGp
