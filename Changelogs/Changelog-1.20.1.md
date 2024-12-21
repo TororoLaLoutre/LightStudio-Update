@@ -29,6 +29,7 @@
 
    - Blocks
       - Bitumen Ore (generate from Y:55 to Y:75, 1 per chunk and max 25 per vein)
+      - Reinforced Glass
      
    - Entity   
       - xx
