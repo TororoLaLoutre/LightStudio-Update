@@ -26,6 +26,8 @@
          - ?? Misc Sign
          - ?? Small Rectangle Sign
          - ?? Rectangle Sign
+      - Raw Magnetite
+      - Cinnabar
 
    - Blocks
       - Bitumen Ore (generate from Y:55 to Y:75, 1 per chunk and max 25 per vein)
