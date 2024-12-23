@@ -11,8 +11,9 @@
    - Crafts
      - Road Blocks
      - Magnet
-     - Gunpowder (Alternative recipe)
+     - Gunpowder (Alternative)
      - Sulfuric Water
+     - Lodestone (Override)
    - Textures
      - Bookshelf Spruce Door
      - Magnet Off
