@@ -10,8 +10,13 @@
 #### Changes
    - Crafts
      - Road Blocks
+     - Magnet
+     - Gunpowder (Alternative recipe)
+     - Sulfuric Water
    - Textures
      - Bookshelf Spruce Door
+     - Magnet Off
+     - Magnet On
 
 #### Additions
    - Items
@@ -28,10 +33,13 @@
          - ?? Rectangle Sign
       - Raw Magnetite
       - Cinnabar
+      - Sulfur
 
    - Blocks
       - Bitumen Ore (generate from Y:55 to Y:75, 1 per chunk and max 25 per vein)
       - Reinforced Glass
+      - Saltpeter Block
+      - Sulfur Ore
      
    - Entity   
       - xx
