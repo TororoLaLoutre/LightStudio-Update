@@ -41,9 +41,26 @@
       - Reinforced Glass
       - Saltpeter Block
       - Sulfur Ore
+      - Charcoal Block
      
-   - Entity   
-      - xx
+   - Craft
+      - Dye   
+         - Black Dye
+         - Blue Dye
+         - Brown Dye
+         - Cyan Dye
+         - Gray Dye
+         - Green Dye
+         - Red Dye
+         - Pink Dye
+         - Orange Dye
+         - Purple Dye
+         - Magenta Dye
+         - Yellow Dye
+         - Lime Dye
+         - Light Blue Dye
+         - Light Gray Dye
+         - White Dye
 
 #### Deletions
    - Entity   
