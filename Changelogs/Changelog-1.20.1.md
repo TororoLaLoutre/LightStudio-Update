@@ -35,6 +35,11 @@
       - Raw Magnetite
       - Cinnabar
       - Sulfur
+      - Apple Must
+      - Red Grape Pomace
+      - White Grape Pomace
+      - Red Grapes
+      - White Grapes
 
    - Blocks
       - Bitumen Ore (generate from Y:55 to Y:75, 1 per chunk and max 25 per vein)
@@ -42,6 +47,7 @@
       - Saltpeter Block
       - Sulfur Ore
       - Charcoal Block
+      - Wine Cellar
      
    - Craft
       - Dye   
