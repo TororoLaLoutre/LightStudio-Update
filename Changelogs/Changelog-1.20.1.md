@@ -40,6 +40,16 @@
       - White Grape Pomace
       - Red Grapes
       - White Grapes
+      - Wine
+         - Bordeaux
+         - Rosé
+         - Chardonnay
+         - Merlot
+         - Champaign
+         - Cider
+   - Entity
+      - Villager
+         - Winemaker
 
    - Blocks
       - Bitumen Ore (generate from Y:55 to Y:75, 1 per chunk and max 25 per vein)
@@ -48,6 +58,17 @@
       - Sulfur Ore
       - Charcoal Block
       - Wine Cellar
+      - Grape Bush
+         - Red Grape
+            - Grape Bush Stage 0
+            - Grape Bush Stage 1
+            - Grape Bush Stage 2
+            - Grape Bush Stage 3
+         - White Grape
+            - Grape Bush Stage 0
+            - Grape Bush Stage 1
+            - Grape Bush Stage 2
+            - Grape Bush Stage 3
      
    - Craft
       - Dye   
