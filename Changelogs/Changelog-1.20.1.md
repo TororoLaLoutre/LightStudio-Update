@@ -14,10 +14,16 @@
      - Gunpowder (Alternative)
      - Sulfuric Water
      - Lodestone (Override)
+     - Iron Pillar
+     - Metal Rung Ladder
+     - Metal Rung Step
+     - Sign Circle Blank
+     - Traffic Post
    - Textures
      - Bookshelf Spruce Door
      - Magnet Off
      - Magnet On
+     - Iron Sheet (Iron Plate)
 
 #### Additions
    - Items
@@ -47,6 +53,8 @@
          - Merlot
          - Champaign
          - Cider
+      - Steel Sheet
+      - Gold Sheet
    - Entity
       - Villager
          - Winemaker
@@ -69,6 +77,14 @@
             - Grape Bush Stage 1
             - Grape Bush Stage 2
             - Grape Bush Stage 3
+      - From Create Mod
+         - Limestone Slab
+         - Cut Limestone Slab
+         - Cut Limestone Brick Slab
+         - Limestone (generate from Y:0 to Y:70, 10 per chunk and max 15 per vein)
+         -
+         -
+
      
    - Craft
       - Dye   
