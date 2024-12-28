@@ -57,11 +57,9 @@
       - Gold Sheet
       - Raw Diamond
       - Raw Emerald
-
    - Entity
       - Villager
          - Winemaker
-
    - Blocks
       - Bitumen Ore (generate from Y:55 to Y:75, 1 per chunk and max 25 per vein)
       - Reinforced Glass
@@ -85,7 +83,6 @@
          - Cut Limestone Slab
          - Cut Limestone Brick Slab
          - Limestone (generate from Y:0 to Y:70, 10 per chunk and max 15 per vein)
-
    - Craft
       - Dye   
          - Black Dye
@@ -108,13 +105,10 @@
 #### Deletions
    - Entity   
       - xx
-
    - Blocks  
       - Laboratory Door
-
    - items   
       - Bitumen
-
    - Others
       - Advancement
          - Roadworks
