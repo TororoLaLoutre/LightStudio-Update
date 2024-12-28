@@ -55,6 +55,9 @@
          - Cider
       - Steel Sheet
       - Gold Sheet
+      - Raw Diamond
+      - Raw Emerald
+
    - Entity
       - Villager
          - Winemaker
@@ -82,10 +85,7 @@
          - Cut Limestone Slab
          - Cut Limestone Brick Slab
          - Limestone (generate from Y:0 to Y:70, 10 per chunk and max 15 per vein)
-         -
-         -
 
-     
    - Craft
       - Dye   
          - Black Dye
