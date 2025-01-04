@@ -57,6 +57,15 @@
       - Gold Sheet
       - Raw Diamond
       - Raw Emerald
+      - La Baguette (Sword)
+      - Dragonite Sword
+      - Dragonite Pickaxe
+      - Dragonite Axe
+      - Dragonite Shovel
+      - Dragonite Armor
+      - Raw Dragonite
+      - Dragonite Ingot
+      - Dragonite Infused Ingot
    - Entity
       - Villager
          - Winemaker
@@ -83,6 +92,7 @@
          - Cut Limestone Slab
          - Cut Limestone Brick Slab
          - Limestone (generate from Y:0 to Y:70, 10 per chunk and max 15 per vein)
+      - Dragonite Ore
    - Craft
       - Dye   
          - Black Dye
