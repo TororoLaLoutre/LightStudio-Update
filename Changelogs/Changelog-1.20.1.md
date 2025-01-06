@@ -66,6 +66,12 @@
       - Raw Dragonite
       - Dragonite Ingot
       - Dragonite Infused Ingot
+      - Recall Potion (Like Home Gem)
+         - Overworld
+         - Nether
+         - End
+      -
+
    - Entity
       - Villager
          - Winemaker
