@@ -70,8 +70,6 @@
          - Overworld
          - Nether
          - End
-      -
-
    - Entity
       - Villager
          - Winemaker
@@ -119,8 +117,6 @@
          - White Dye
 
 #### Deletions
-   - Entity   
-      - xx
    - Blocks  
       - Laboratory Door
    - items   
@@ -132,3 +128,32 @@
          - Food
          - Ore
          - Music Disc
+
+## 1.20.1 -  V.1.5.2-00? - In Developpement
+
+#### Changes
+   - Crafts
+     - ?
+   - Textures
+     - ?
+
+#### Additions
+   - Items
+      - ?
+
+   - Entity
+      - ?
+   - Blocks
+      - ?
+   - Craft
+      - ?
+
+#### Deletions
+   - Entity   
+      - ?
+   - Blocks  
+      - ?
+   - items   
+      - ?
+   - Others
+      - ?
