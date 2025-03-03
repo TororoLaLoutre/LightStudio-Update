@@ -139,7 +139,21 @@
 
 #### Additions
    - Items
-      - ?
+      - Gears
+         - Iron
+         - Gold
+         - Bronze
+         - Steel
+         - Copper
+         - Tin
+      - Gears (no craft)
+         - Titanium
+      - Wires (no craft)
+         - Iron
+         - Copper
+         - Gold
+         - Silver
+         - Tin
 
    - Entity
       - ?
