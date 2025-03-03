@@ -133,9 +133,11 @@
 
 #### Changes
    - Crafts
-     - ?
+      - ?
    - Textures
-     - ?
+      - ?
+   - Items
+      - Frying Pan can now be used like a weapon 
 
 #### Additions
    - Items
