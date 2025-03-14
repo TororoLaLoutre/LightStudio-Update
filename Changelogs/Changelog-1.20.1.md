@@ -1,4 +1,4 @@
-# Changelog - LightStudio Update
+# Changelog - LightStudio Update [DISCONTINUED]
 ## 1.20.1 -  V.1.5.0-002 - Release
 
 #### Changes
@@ -128,48 +128,3 @@
          - Food
          - Ore
          - Music Disc
-
-## 1.20.1 -  V.1.5.2-00? - In Developpement
-
-#### Changes
-   - Crafts
-      - ?
-   - Textures
-      - ?
-   - Items
-      - Frying Pan can now be used like a weapon 
-
-#### Additions
-   - Items
-      - Gears
-         - Iron
-         - Gold
-         - Bronze
-         - Steel
-         - Copper
-         - Tin
-      - Gears (no craft)
-         - Titanium
-      - Wires (no craft)
-         - Iron
-         - Copper
-         - Gold
-         - Silver
-         - Tin
-
-   - Entity
-      - ?
-   - Blocks
-      - ?
-   - Craft
-      - ?
-
-#### Deletions
-   - Entity   
-      - ?
-   - Blocks  
-      - ?
-   - items   
-      - ?
-   - Others
-      - ?
