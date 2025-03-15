@@ -7,12 +7,13 @@
       - Ported from 1.20.1 to 1.21.1
       - Use Neoforge instead of Forge
    - Crafts
-      - ?
+      - Removed craft for Lava Pickaxe (code has not been updated)
    - Textures
       - ?
    - Items
       - Frying Pan can now be used like a weapon 
       - Updated code for Recall Potion
+      - Updated code for Nuclear Bomb
 
 #### Additions
    - Items
@@ -45,6 +46,6 @@
    - Blocks  
       - ?
    - items   
-      - ?
+      - Pickaxe Of The Gods
    - Others
       - ?
