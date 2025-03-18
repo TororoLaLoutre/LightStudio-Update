@@ -36,7 +36,20 @@
    - Entity
       - ?
    - Blocks
-      - ?
+      - Grape Crate
+         - Red & White Grape
+      - Brazier (no craft)
+         - On & Off version
+      - Industrial Lamp
+         - Black
+         - Red
+         - White
+         - Yellow
+      - Small Industrial Lamp
+         - Black
+         - Red
+         - White
+         - Yellow
    - Craft
       - ?
 
