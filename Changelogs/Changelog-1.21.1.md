@@ -32,7 +32,6 @@
          - Gold
          - Silver
          - Tin
-
    - Entity
       - ?
    - Blocks
@@ -50,8 +49,17 @@
          - Red
          - White
          - Yellow
+      - Enchanted Block
+         - Gold Block
    - Craft
-      - ?
+      - Enchanted Golden Apple
+      - Bell
+      - Saddle
+      - Cobweb
+      - Suspicious Sand
+      - Suspicious Gravel
+      - Nametag
+      - Trident
 
 #### Deletions
    - Entity   
