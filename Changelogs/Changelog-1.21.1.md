@@ -51,22 +51,17 @@
          - Yellow
       - Enchanted Block
          - Gold Block
+      - Cyber Computer (decorative / brocken texture)
    - Craft
-      - Enchanted Golden Apple
-      - Bell
-      - Saddle
-      - Cobweb
-      - Suspicious Sand
-      - Suspicious Gravel
-      - Nametag
-      - Trident
+      -
 
 #### Deletions
    - Entity   
       - ?
    - Blocks  
-      - ?
+      - Dragonite Ore
    - items   
       - Pickaxe Of The Gods
+      - Dragonite Set
    - Others
       - ?
