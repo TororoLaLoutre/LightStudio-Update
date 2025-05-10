@@ -14,6 +14,7 @@
       - Frying Pan can now be used like a weapon 
       - Updated code for Recall Potion
       - Updated code for Nuclear Bomb
+      - Wine Bottle stack from 64 to 16
 
 #### Additions
    - Items
@@ -51,7 +52,9 @@
          - Yellow
       - Enchanted Block
          - Gold Block
-      - Cyber Computer (decorative / brocken texture)
+      - Cyber Computer (decorative)
+      - Wine Barrel
+      - Copper Lamp
    - Craft
       -
 
