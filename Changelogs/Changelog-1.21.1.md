@@ -7,9 +7,11 @@
       - Ported from 1.20.1 to 1.21.1
       - Use Neoforge instead of Forge
    - Crafts
-      - Removed craft for Lava Pickaxe (code has not been updated)
+      -
    - Textures
       - ?
+   - Blocks
+      - Saltpeper generate naturally in savanna, desert and badland biome (generate from Y:30 to Y:80, 5 per chunk and max 4 per vein)
    - Items
       - Frying Pan can now be used like a weapon 
       - Updated code for Recall Potion
@@ -59,6 +61,10 @@
       -
 
 #### Deletions
+   - Craft
+      - Removed craft for Lava Pickaxe (code has not been updated)
+      - Removed temporary craft for saltpeper
+      - Removed craft for Home gem
    - Entity   
       - ?
    - Blocks  
@@ -68,3 +74,11 @@
       - Dragonite Set
    - Others
       - ?
+
+## Version -  Serial Number
+
+#### Changes
+
+#### Additions
+
+#### Deletions
