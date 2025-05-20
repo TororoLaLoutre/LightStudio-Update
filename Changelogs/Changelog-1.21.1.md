@@ -9,17 +9,27 @@
    - Crafts
       - New craft for Blank Music Disc
    - Textures
-      - ?
+      - New texture for Traffic Light Template
    - Blocks
       - Saltpeper generate naturally in savanna, desert and badland biome (generate from Y:30 to Y:80, 5 per chunk and max 4 per vein)
       - All Traffic Light are show in the Creative Tab
       - All Traffic Sign are show in the Creative Tab
+      - Remove the "Creative Only !" text in the description of all Road Blocks
+      - Fix the bounding box of the Channelizer
+      - Rewrite code of Secret Stripped Oak & Sruce Door
+      - Metal Girder (From the Create Mod)
+         - Metal Girder 
+         - Metal Girder Pole
+         - Metal Girder Jonction
    - Items
       - Frying Pan can now be used like a weapon 
       - Updated code for Recall Potion
       - Updated code for Nuclear Bomb
       - Wine Bottle stack from 64 to 16
-
+      - Add a description to Strenght, Speed, Heal Orb
+      - Andesite Alloy (From the Create Mod)
+   - Others
+      -
 #### Additions
    - Items
       - Gears
@@ -54,11 +64,18 @@
          - Red
          - White
          - Yellow
-      - Enchanted Block
-         - Gold Block
       - Cyber Computer (decorative)
       - Wine Barrel
       - Copper Lamp
+      - Rail Bridge
+         - Oak Rail Bridge
+         - Spruce Rail Bridge
+      - Powered Rail Bridge
+         - Oak Rail Powered Bridge
+         - Spruce Rail Powered Bridge
+      - Weather Detector
+      - Desk Bell (From the Create Mod)
+      - Andesite Casing (From the Create Mod)
    - Craft
       -
 
