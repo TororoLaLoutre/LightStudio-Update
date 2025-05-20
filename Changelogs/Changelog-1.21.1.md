@@ -29,7 +29,7 @@
       - Add a description to Strenght, Speed, Heal Orb
       - Andesite Alloy (From the Create Mod)
    - Others
-      -
+      - Saddle no longer generate in dongeaon's lootchest
 #### Additions
    - Items
       - Gears
@@ -76,8 +76,9 @@
       - Weather Detector
       - Desk Bell (From the Create Mod)
       - Andesite Casing (From the Create Mod)
+      - Raw Magnetite Block
    - Craft
-      -
+      - Saddle
 
 #### Deletions
    - Craft
