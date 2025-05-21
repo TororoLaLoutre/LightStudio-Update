@@ -17,10 +17,6 @@
       - Remove the "Creative Only !" text in the description of all Road Blocks
       - Fix the bounding box of the Channelizer
       - Rewrite code of Secret Stripped Oak & Sruce Door
-      - Metal Girder (From the Create Mod)
-         - Metal Girder 
-         - Metal Girder Pole
-         - Metal Girder Jonction
    - Items
       - Frying Pan can now be used like a weapon 
       - Updated code for Recall Potion
@@ -77,8 +73,17 @@
       - Desk Bell (From the Create Mod)
       - Andesite Casing (From the Create Mod)
       - Raw Magnetite Block
+      - Metal Girder (From the Create Mod)
+         - Metal Girder 
+         - Metal Girder Pole
+         - Metal Girder Jonction
+         - Metal Girder End
    - Craft
       - Saddle
+      - Crate
+         - Wooden Crate
+         - Metal Crate
+      - Steel Pillar
 
 #### Deletions
    - Craft
@@ -92,6 +97,8 @@
    - items   
       - Pickaxe Of The Gods
       - Dragonite Set
+      - Vault Armor
+      - Vault Protected Armor
    - Others
       - ?
 
