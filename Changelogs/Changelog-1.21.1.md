@@ -1,34 +1,42 @@
 # Changelog - LightStudio Update
 
-## 1.201.1 -  V.1.5.3-00? - In Developpement
+## 1.21.1 - V.2.0.0 - In Development
 
 #### Changes
    - Version
       - Ported from 1.20.1 to 1.21.1
-      - Use Neoforge instead of Forge
-   - Crafts
-      - New craft for Blank Music Disc
+      - Using NeoForge instead of Forge
+   - Recipes
+      - New recipe for Blank Music Disc
    - Textures
       - New texture for Traffic Light Template
+      - Replaced custom block textures in my mod with the original Minecraft versions
    - Blocks
-      - Saltpeper generate naturally in savanna, desert and badland biome (generate from Y:30 to Y:80, 5 per chunk and max 4 per vein)
-      - All Traffic Light are show in the Creative Tab
-      - All Traffic Sign are show in the Creative Tab
-      - Remove the "Creative Only !" text in the description of all Road Blocks
-      - Fix the bounding box of the Channelizer
-      - Rewrite code of Secret Stripped Oak & Sruce Door
+      - Saltpeper now generates naturally in savanna, desert, and badland biomes (generates from Y:30 to Y:80, 5 per chunk and max 4 per vein)
+      - All Traffic Lights are shown in the Creative Tab
+      - All traffic lights now emit light
+      - All Traffic Signs are shown in the Creative Tab
+      - Removed the "Creative Only!" text in the description of all Road Blocks
+      - Fixed the bounding box of the Channelizer
+      - Rewrote the code of Secret Stripped Oak & Spruce Door
       - Ore Generation
-         - Reduce generation of Tin ore (now generate from Y:0 to Y:64, 5 per chunk and max 5 per vein)
-         - Increase generation of Limestone ore (now generate from Y:20 to Y:64, 4 per chunk and max 25 per vein)
+         - Reduced generation of Tin ore (now generates from Y:0 to Y:64, 5 per chunk and max 5 per vein)
+         - Increased generation of Limestone ore (now generates from Y:20 to Y:64, 4 per chunk and max 25 per vein)
+         - Reduced generation of Amethyst ore (now generates from Y:6 to Y:10, 3 per chunk and max 6 per vein)
+         - Reduced generation of Sulfur ore (now generates from Y:5 to Y:30, 2 per chunk and max 5 per vein)
+         - Reduced generation of Titane ore (now generates from Y:6 to Y:10, 3 per chunk and max 5 per vein)
+         - Increased generation of Findium ore (now generates from Y:5 to Y:10, 1 per chunk and max 4 per vein)
+      - New model for Traffic Cone
    - Items
-      - Frying Pan can now be used like a weapon 
+      - Frying Pan can now be used as a weapon
       - Updated code for Recall Potion
       - Updated code for Nuclear Bomb
-      - Wine Bottle stack from 64 to 16
-      - Add a description to Strenght, Speed, Heal Orb
-      - Andesite Alloy (From the Create Mod)
+      - Wine Bottles now stack up to 16 instead of 64
+      - Added descriptions to Strength Orb, Speed Orb, and Heal Orb
+      - Andesite Alloy (from the Create mod)
    - Others
-      - Saddle no longer generate in dongeon's lootchest
+      - Saddle no longer generates in dungeon loot chests
+
 #### Additions
    - Items
       - Gears
@@ -38,9 +46,9 @@
          - Steel
          - Copper
          - Tin
-      - Gears (no craft)
+      - Gears (no recipe)
          - Titanium
-      - Wires (no craft)
+      - Wires (no recipe)
          - Iron
          - Copper
          - Gold
@@ -50,8 +58,8 @@
       - ?
    - Blocks
       - Grape Crate
-         - Red & White Grape
-      - Brazier (no craft)
+         - Red & White Grapes
+      - Brazier (no recipe)
          - On & Off version
       - Industrial Lamp
          - Black
@@ -73,15 +81,19 @@
          - Oak Rail Powered Bridge
          - Spruce Rail Powered Bridge
       - Weather Detector
-      - Desk Bell (From the Create Mod)
-      - Andesite Casing (From the Create Mod)
+      - Desk Bell (from the Create mod)
+      - Andesite Casing (from the Create mod)
       - Raw Magnetite Block
-      - Metal Girder (From the Create Mod)
-         - Metal Girder 
+      - Metal Girder (from the Create mod)
+         - Metal Girder
          - Metal Girder Pole
-         - Metal Girder Jonction
+         - Metal Girder Junction
          - Metal Girder End
-   - Craft
+      - Traffic Barrel
+      - Traffic Light
+         - Traffic Light Triple Green Left Tramway
+         - Traffic Light Triple Green Right Tramway
+   - Recipes
       - Saddle
       - Crate
          - Wooden Crate
@@ -89,16 +101,16 @@
       - Steel Pillar
 
 #### Deletions
-   - Craft
-      - Removed craft for Lava Pickaxe (code has not been updated)
-      - Removed temporary craft for saltpeper
-      - Removed craft for Home gem
-      - Removed craft for Spring Water
+   - Recipes
+      - Removed recipe for Lava Pickaxe (code has not been updated)
+      - Removed temporary recipe for saltpeper
+      - Removed recipe for Home gem
+      - Removed recipe for Spring Water
    - Entity   
       - ?
    - Blocks  
       - Dragonite Ore
-   - items   
+   - Items   
       - Pickaxe Of The Gods
       - Dragonite Set
       - Vault Armor
