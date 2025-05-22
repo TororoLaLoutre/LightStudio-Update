@@ -17,6 +17,9 @@
       - Remove the "Creative Only !" text in the description of all Road Blocks
       - Fix the bounding box of the Channelizer
       - Rewrite code of Secret Stripped Oak & Sruce Door
+      - Ore Generation
+         - Reduce generation of Tin ore (now generate from Y:0 to Y:64, 5 per chunk and max 5 per vein)
+         - Increase generation of Limestone ore (now generate from Y:20 to Y:64, 4 per chunk and max 25 per vein)
    - Items
       - Frying Pan can now be used like a weapon 
       - Updated code for Recall Potion
@@ -25,7 +28,7 @@
       - Add a description to Strenght, Speed, Heal Orb
       - Andesite Alloy (From the Create Mod)
    - Others
-      - Saddle no longer generate in dongeaon's lootchest
+      - Saddle no longer generate in dongeon's lootchest
 #### Additions
    - Items
       - Gears
@@ -90,6 +93,7 @@
       - Removed craft for Lava Pickaxe (code has not been updated)
       - Removed temporary craft for saltpeper
       - Removed craft for Home gem
+      - Removed craft for Spring Water
    - Entity   
       - ?
    - Blocks  
