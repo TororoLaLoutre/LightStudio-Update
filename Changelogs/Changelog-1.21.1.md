@@ -105,6 +105,7 @@
          - Wooden Crate
          - Metal Crate
       - Steel Pillar
+      - Tuff (lava + cobblestone + andesite)
 
 #### Deletions
    - Recipes
