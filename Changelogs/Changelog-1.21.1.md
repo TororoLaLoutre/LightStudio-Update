@@ -27,6 +27,7 @@
          - Reduced generation of Titane ore (now generates from Y:6 to Y:10, 3 per chunk and max 5 per vein)
          - Increased generation of Findium ore (now generates from Y:5 to Y:10, 1 per chunk and max 4 per vein)
       - New model for Traffic Cone
+      - Grape Bush now begin growing after 20 minutes (instead of 10), and fully mature after 30 minutes (instead of 20).
    - Items
       - Frying Pan can now be used as a weapon
       - Updated code for Recall Potion
@@ -54,6 +55,7 @@
          - Gold
          - Silver
          - Tin
+      - Dirt Armor
    - Entity
       - ?
    - Blocks
@@ -77,7 +79,6 @@
       - Rail Bridge
          - Oak Rail Bridge
          - Spruce Rail Bridge
-      - Powered Rail Bridge
          - Oak Rail Powered Bridge
          - Spruce Rail Powered Bridge
       - Weather Detector
@@ -93,6 +94,11 @@
       - Traffic Light
          - Traffic Light Triple Green Left Tramway
          - Traffic Light Triple Green Right Tramway
+      - Maple Wood
+         - Maple Log (Can't be stripped for now)
+         - Maple Stripped Log
+         - Maple Planks
+         - Maple Leaves
    - Recipes
       - Saddle
       - Crate
