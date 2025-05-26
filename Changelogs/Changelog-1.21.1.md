@@ -8,6 +8,7 @@
       - Using NeoForge instead of Forge
    - Recipes
       - New recipe for Blank Music Disc
+      - Some craft are now shapeless
    - Textures
       - New texture for Traffic Light Template
       - Replaced custom block textures in my mod with the original Minecraft versions
@@ -28,6 +29,9 @@
          - Increased generation of Findium ore (now generates from Y:5 to Y:10, 1 per chunk and max 4 per vein)
       - New model for Traffic Cone
       - Grape Bush now begin growing after 20 minutes (instead of 10), and fully mature after 30 minutes (instead of 20).
+      - Sap Extractor now drop Sap Bucket instead of Bottle of Sap
+      - Vibranium Ore (NEED BUG FIX - DO NO GENERATE)
+      - Unobtainium ore (NEED BUG FIX - DO NO GENERATE)
    - Items
       - Frying Pan can now be used as a weapon
       - Updated code for Recall Potion
@@ -56,6 +60,7 @@
          - Silver
          - Tin
       - Dirt Armor
+      - Sap Bucket
    - Entity
       - ?
    - Blocks
@@ -99,6 +104,9 @@
          - Maple Stripped Log
          - Maple Planks
          - Maple Leaves
+      - Chinmey
+         - Brick Chimney
+         - Dirty Brick Chimney
    - Recipes
       - Saddle
       - Crate
@@ -106,6 +114,18 @@
          - Metal Crate
       - Steel Pillar
       - Tuff (lava + cobblestone + andesite)
+      - Secret Doors (NEED NEW RECIPES)
+         - Secret Oak Log Door
+         - Secret Spruce Log Door
+         - Secret Andesite Door
+         - Secret Stone Door
+         - Secret Stone Brick Door
+         - Secret Oak Plank Door
+         - Secret Spruce Plank Door
+         - Secret Deepslate Bricks Door
+         - Secret Deepslate Tiles Door
+         - Secret Deepslate Door
+         - Secret Netherrack Door
 
 #### Deletions
    - Recipes
@@ -115,6 +135,8 @@
       - Removed recipe for Spring Water
    - Entity   
       - ?
+   - Fluid
+      - Angelic Water
    - Blocks  
       - Dragonite Ore
    - Items   
