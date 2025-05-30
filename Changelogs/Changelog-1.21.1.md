@@ -29,7 +29,9 @@
          - Increased generation of Findium ore (now generates from Y:5 to Y:10, 1 per chunk and max 4 per vein)
       - New model for Traffic Cone
       - Grape Bush now begin growing after 20 minutes (instead of 10), and fully mature after 30 minutes (instead of 20).
-      - Sap Extractor now drop Sap Bucket instead of Bottle of Sap
+      - Sap Extractor
+         - Now drop Sap Bucket instead of Bottle of Sap
+         - Can only be placed on Maple Log
       - Vibranium Ore (NEED BUG FIX - DO NO GENERATE)
       - Unobtainium ore (NEED BUG FIX - DO NO GENERATE)
    - Items
@@ -43,6 +45,9 @@
       - Saddle no longer generates in dungeon loot chests
 
 #### Additions
+   - Structures
+      - Tree
+         - Maple Tree (generetes only in forest biome)
    - Items
       - Gears
          - Iron
