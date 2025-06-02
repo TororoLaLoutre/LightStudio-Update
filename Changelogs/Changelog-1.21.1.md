@@ -61,6 +61,7 @@
          - Silver Ingot
          - Raw Silver
       - Firewood
+      - Block Rotation Staff
    - Blocks
       - Grape Crate
          - Red & White Grapes
@@ -123,6 +124,7 @@
       - Removed temporary recipe for saltpeper
       - Removed recipe for Home gem
       - Removed recipe for Spring Water
+      - Removed Recipe for Campfire & Soul Campfire
    - Fluid
       - Angelic Water
    - Blocks  
