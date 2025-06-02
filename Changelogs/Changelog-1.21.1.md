@@ -60,6 +60,7 @@
       - Siver 
          - Silver Ingot
          - Raw Silver
+      - Firewood
    - Blocks
       - Grape Crate
          - Red & White Grapes
