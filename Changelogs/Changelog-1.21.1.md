@@ -93,7 +93,7 @@
          - Maple Stripped Log
          - Maple Planks
          - Maple Leaves
-      - Brick Chinmey
+      - Brick Chinmey (DOES NOT GENERATE SMOKE)
          - Cleaun & Dirty variantes
       - Silver
          - Silver Ore (DOES NOT GENERATE)
