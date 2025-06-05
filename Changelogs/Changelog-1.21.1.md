@@ -7,7 +7,9 @@
       - Ported from 1.20.1 to 1.21.1
       - Using NeoForge instead of Forge
    - Recipes
-      - New recipe for Blank Music Disc
+      - New recipe for :
+         - Blank Music Disc
+         - Refiner Hammer
       - Some crafting recipes are now shapeless
    - Textures
       - New texture for Traffic Light Template
@@ -99,6 +101,10 @@
          - Silver Ore (DOES NOT GENERATE)
          - Silver Block
          - Raw Silver
+      - Train Pantograph (IN DEV)
+         - Up & Down Variantes
+      - Track End Stop Buffer
+      - Train Buffer
    - Recipes
       - Saddle
       - Crate
