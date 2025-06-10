@@ -44,6 +44,8 @@
       - Andesite Alloy (from the Create mod)
    - Others
       - Saddle no longer generates in dungeon loot chests
+      - New creative tabs
+         - Roadworks, Railway, Furniture, Food and Crops, Engineering and Combat, Security, Jurassic Park
 
 #### Additions
    - Structures
@@ -64,6 +66,10 @@
          - Raw Silver
       - Firewood
       - Block Rotation Staff
+      - Pantograph 
+         - Unfired Insulator
+         - Insulator
+         - Iron Tube
    - Blocks
       - Grape Crate
          - Red & White Grapes
@@ -96,21 +102,15 @@
          - Maple Planks
          - Maple Leaves
       - Brick Chinmey (DOES NOT GENERATE SMOKE)
-         - Cleaun & Dirty variantes
+         - Clean & Dirty variantes
       - Silver
          - Silver Ore (DOES NOT GENERATE)
          - Silver Block
          - Raw Silver
-      - Train Pantograph (IN DEV)
+      - Train Pantograph
          - Up & Down Variantes
       - Track End Stop Buffer
       - Train Buffer
-   - Recipes
-      - Saddle
-      - Crate
-         - Wooden & Metal varintes
-      - Steel Pillar
-      - Tuff (lava + cobblestone + andesite)
       - Secret Doors
          - Secret Oak Log Door
          - Secret Spruce Log Door
@@ -123,6 +123,34 @@
          - Secret Deepslate Tiles Door
          - Secret Deepslate Door
          - Secret Netherrack Door
+      - Defused Tnt
+      - Air Conditioner (no craft)
+         - Wall Mounted Indoor & Outdoor
+         - Ground Mounted Outdoor
+      - Weapon Rack (no craft) / (NEED FIX TEXTURE BUG)
+         - Empty, SPAS-12, M4 & HK MP5
+      - TV (no craft)
+         - CRT TV New & Broken
+      - Light (no craft)
+         - Ground Floodlight On & Off
+         - Wall Floodlight On & Off
+      - Chemical Protective Clothing (no craft)
+         - Wall mounted with & without 
+      - Wall Mounted Fire Extinguisher (no craft)
+      -
+
+
+
+
+
+
+
+   - Recipes
+      - Saddle
+      - Crate
+         - Wooden & Metal varintes
+      - Steel Pillar
+      - Tuff (lava + cobblestone + andesite)
 
 #### Deletions
    - Recipes
