@@ -45,7 +45,7 @@
    - Others
       - Saddle no longer generates in dungeon loot chests
       - New creative tabs
-         - Roadworks, Railway, Furniture, Food and Crops, Engineering and Combat, Security, Jurassic Park
+         - Roadworks, Railway, Furniture, Food and Crops, Mining and Industry, Security, Jurassic Park
 
 #### Additions
    - Structures
