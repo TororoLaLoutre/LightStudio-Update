@@ -130,7 +130,7 @@
       - Weapon Rack (no craft) / (NEED FIX TEXTURE BUG)
          - Empty, SPAS-12, M4 & HK MP5
       - TV (no craft)
-         - CRT TV New & Broken
+         - CRT TV 
       - Light (no craft)
          - Ground Floodlight On & Off
          - Wall Floodlight On & Off
