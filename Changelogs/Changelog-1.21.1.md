@@ -29,7 +29,10 @@
          - Reduced generation of Titane ore (Y:6 to Y:10, 3 veins per chunk, up to 5 blocks per vein)
          - Increased generation of Findium ore (Y:5 to Y:10, 1 vein per chunk, up to 4 blocks per vein)
       - New model for Traffic Cone
-      - Grape Bush now begin growing after 20 minutes (instead of 10), and fully mature after 30 minutes (instead of 20).
+      - Grape Bush 
+         - Now begin growing after 20 minutes (instead of 10), and fully mature after 30 minutes (instead of 20).
+         - Deal damage like Sweet Berry Bush
+         - Remove Model Offset
       - Sap Extractor
          - Now drop Sap Bucket instead of Bottle of Sap
          - Can only be placed on Maple Log
@@ -137,14 +140,7 @@
       - Chemical Protective Clothing (no craft)
          - Wall mounted with & without 
       - Wall Mounted Fire Extinguisher (no craft)
-      -
-
-
-
-
-
-
-
+      - Sawmill
    - Recipes
       - Saddle
       - Crate
