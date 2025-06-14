@@ -73,6 +73,9 @@
          - Unfired Insulator
          - Insulator
          - Iron Tube
+      - Music Disk
+         - Omen
+         - Waves
    - Blocks
       - Grape Crate
          - Red & White Grapes
