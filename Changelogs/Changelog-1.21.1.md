@@ -144,6 +144,46 @@
          - Wall mounted with & without 
       - Wall Mounted Fire Extinguisher (no craft)
       - Sawmill
+      - Plushies
+         - Enderdragon
+         - Axolotl
+         - Breeze
+         - Wither
+         - Warden
+         - Iron Golem
+         - Goat
+         - Ravager
+         - Creeper
+         - Sniffer
+         - Strider
+         - Panda
+         - Frog
+         - Fox
+         - Enderman
+         - Camel
+         - Shulker
+         - Turtle
+         - Chicken
+         - Armadillo
+         - Evoker
+         - Vindicator
+         - Villager
+         - Witch
+         - Pillager
+         - Slime
+         - Llama
+         - Magma Cube
+         - Polar Bear
+         - Trader Llama
+         - Wandering Trader
+         - Dolphin
+         - Cow
+         - Pig
+         - Cat
+         - Wolf
+         - Phantom
+         - Emperor
+         - Dark Father
    - Recipes
       - Saddle
       - Crate
