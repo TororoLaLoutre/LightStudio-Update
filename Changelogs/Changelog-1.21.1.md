@@ -1,6 +1,6 @@
 # Changelog - LightStudio Update
 
-## 1.21.1 - V.2.0.0 - In Development
+## 1.21.1 - V.2.0.4 - In Development
 
 #### Changes
    - Version
@@ -76,6 +76,7 @@
       - Music Disk
          - Omen
          - Waves
+         - Lava Chicken (From Minecraft Movie)
    - Blocks
       - Grape Crate
          - Red & White Grapes
@@ -144,7 +145,7 @@
          - Wall mounted with & without 
       - Wall Mounted Fire Extinguisher (no craft)
       - Sawmill
-      - Plushies
+      - Plushies (no craft)
          - Enderdragon
          - Axolotl
          - Breeze
@@ -184,6 +185,9 @@
          - Phantom
          - Emperor
          - Dark Father
+      - Train Platform Sign
+         - Platform 1 to 9
+      - Ticket Machine DB (Deutsche Bahn)
    - Recipes
       - Saddle
       - Crate
