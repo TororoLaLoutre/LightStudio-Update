@@ -49,6 +49,7 @@
       - Saddle no longer generates in dungeon loot chests
       - New creative tabs
          - Roadworks, Railway, Furniture, Food and Crops, Mining and Industry, Security, Jurassic Park
+      - Admin Menu
 
 #### Additions
    - Structures
@@ -77,6 +78,7 @@
          - Omen
          - Waves
          - Lava Chicken (From Minecraft Movie)
+      - Admin Menu Phone
    - Blocks
       - Grape Crate
          - Red & White Grapes
