@@ -10,6 +10,8 @@
       - New recipe for :
          - Blank Music Disc
          - Refiner Hammer
+         - Steelworks Foundry
+         - Cobblebreaker
       - Some crafting recipes are now shapeless
    - Textures
       - New texture for Traffic Light Template
@@ -22,12 +24,7 @@
       - Fixed Channelizer bounding box
       - Rewrote the code of Secret Stripped Oak & Spruce Door
       - Ore Generation
-         - Reduced generation of Tin ore (Y:0 to Y:64, 5 veins per chunk, up to 5 blocks per vein)
-         - Increased generation of Limestone ore (Y:20 to Y:64, 4 veins per chunk, up to 25 blocks per vein)
-         - Reduced generation of Amethyst ore (Y:6 to Y:10, 3 veins per chunk, up to 6 blocks per vein)
-         - Reduced generation of Sulfur ore (Y:5 to Y:30, 2 veins per chunk, up to 5 blocks per vein)
-         - Reduced generation of Titane ore (Y:6 to Y:10, 3 veins per chunk, up to 5 blocks per vein)
-         - Increased generation of Findium ore (Y:5 to Y:10, 1 vein per chunk, up to 4 blocks per vein)
+         - Rewamp generation height off all LSU' Ores
       - New model for Traffic Cone
       - Grape Bush 
          - Now begin growing after 20 minutes (instead of 10), and fully mature after 30 minutes (instead of 20).
@@ -49,7 +46,7 @@
       - Saddle no longer generates in dungeon loot chests
       - New creative tabs
          - Roadworks, Railway, Furniture, Food and Crops, Mining and Industry, Security, Jurassic Park
-      - Admin Menu
+      - Admin Menu is making its return
 
 #### Additions
    - Structures
@@ -64,7 +61,7 @@
          - Iron, Copper, Gold, Silver, Tin variantes
       - Dirt Armor
       - Sap Bucket
-      - Secret Door (RECIPE NEEDED)
+      - Secret Door 
       - Siver 
          - Silver Ingot
          - Raw Silver
@@ -78,7 +75,9 @@
          - Omen
          - Waves
          - Lava Chicken (From Minecraft Movie)
+         - Jingle SNCF
       - Admin Menu Phone
+      - Camouflage Paste
    - Blocks
       - Grape Crate
          - Red & White Grapes
@@ -146,7 +145,7 @@
       - Chemical Protective Clothing (no craft)
          - Wall mounted with & without 
       - Wall Mounted Fire Extinguisher (no craft)
-      - Sawmill
+      - Sawmill (Replace Wood Stripper)
       - Plushies (no craft)
          - Enderdragon
          - Axolotl
@@ -196,23 +195,51 @@
          - Wooden & Metal varintes
       - Steel Pillar
       - Tuff (lava + cobblestone + andesite)
-
+      - Create Mod
+         - Mixing
+            - Tuff (Andesite + Cobblestone + Lava)
+            - Dripstone (granite + cobblestone + lava)
+         - Crushing
+            - Zing Nugget (Tuff)
+            - Clay Ball & Copper Nugget (Dripstone)
+         - Compacting
+            - Apple Must (Apple)
+            - Red Grape Pomace (Red Grapes)
+            - White Grape Pomace (White grapes)
+         - Ores
+            - Deepslate Trixium Ore
+            - Deepslate Findium Ore
+            - Deepslate Uranium Ore
+            - Deepslate Paladium Ore
+            - Deepslate Green Paladium Ore
 #### Deletions
    - Recipes
-      - Removed recipe for Lava Pickaxe (code not updated)
+      - Removed recipe for Lava Pickaxe (code will not be updated)
+      - Removed recipe for Lava Ingot
       - Removed temporary recipe for saltpeper
-      - Removed recipe for Home gem
       - Removed recipe for Spring Water
       - Removed Recipe for Campfire & Soul Campfire
    - Fluid
       - Angelic Water
    - Blocks  
       - Dragonite Ore
+      - Wood Stripper
+      - Cinder Bricks & Variantes
+      - Oak & Spruce Compact Planks
+      - Oak & Spruce Shakes
+      - Stone Shingles
+      - Ores
+         - Trixium Ore
+         - Findium Ore
+         - Uranium Ore
    - Items   
       - Pickaxe Of The Gods
       - Dragonite Set
       - Vault Armor
       - Vault Protected Armor
+      - Cinder Brick
+      - Home Gem (replaced by Recall Potion)
+      - Reinforced Rod
 
 ## Version -  Serial Number
 
