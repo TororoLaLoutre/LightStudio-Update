@@ -68,14 +68,9 @@
    - Firewood  
    - Block Rotation Staff  
    - Pantograph  
-      - Unfired Insulator  
-      - Insulator  
-      - Iron Tube  
+      - Insulator, Unfired Insulator, Iron Tube   
    - Music Discs  
-      - Omen  
-      - Waves  
-      - Lava Chicken (From Minecraft Movie)  
-      - Jingle SNCF  
+      - Omen, Waves, Lava Chicken (From Minecraft Movie), Jingle SNCF  
    - Admin Menu Phone  
    - Camouflage Paste  
 - Blocks  
@@ -97,10 +92,7 @@
    - Andesite Casing (from the Create mod)  
    - Raw Magnetite Block  
    - Metal Girder (from the Create mod)  
-      - Metal Girder  
-      - Metal Girder Pole  
-      - Metal Girder Junction  
-      - Metal Girder End  
+      - Metal Girder, Girder Pole, Girder Junction, Girder End   
    - Traffic Barrel  
    - Traffic Light  
       - Triple Green Left & Right Tramway  
