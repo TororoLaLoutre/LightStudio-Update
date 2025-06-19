@@ -2,12 +2,12 @@
 
 ## 1.21.1 - V.2.0.4 - In Development
 
-#### Changes
-- Version  
+#### Changes  
+- General  
    - Ported from 1.20.1 to 1.21.1  
    - Using NeoForge instead of Forge  
 - Recipes  
-   - New recipe for:  
+   - New recipes for  
       - Blank Music Disc  
       - Refiner Hammer  
       - Steelworks Foundry  
@@ -29,7 +29,7 @@
    - Grape Bush  
       - Now begins growing after 20 minutes (instead of 10), and fully matures after 30 minutes (instead of 20)  
       - Deals damage like Sweet Berry Bush  
-      - Removed Model Offset  
+      - Removed model offset  
    - Sap Extractor  
       - Now drops Sap Bucket instead of Bottle of Sap  
       - Can only be placed on Maple Log  
