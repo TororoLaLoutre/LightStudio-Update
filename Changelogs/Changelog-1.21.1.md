@@ -120,16 +120,11 @@
    - Track End Stop Buffer  
    - Train Buffer  
    - Secret Doors  
-      - Secret Oak Log Door  
-      - Secret Spruce Log Door  
+      - Secret Oak, Spruce Log Door  
       - Secret Andesite Door  
-      - Secret Stone Door  
-      - Secret Stone Brick Door  
-      - Secret Oak Plank Door  
-      - Secret Spruce Plank Door  
-      - Secret Deepslate Bricks Door  
-      - Secret Deepslate Tiles Door  
-      - Secret Deepslate Door  
+      - Secret Stone & Stone Bricks Door   
+      - Secret Oak & Spruce Plank Door  
+      - Secret Deepslate, Deepslate Bricks, Deepslate Tiles Door  
       - Secret Netherrack Door  
    - Defused TNT  
    - Air Conditioner (no craft)  
@@ -147,45 +142,8 @@
    - Wall Mounted Fire Extinguisher (no craft)  
    - Sawmill (Replaces Wood Stripper)  
    - Plushies (no craft)  
-      - Enderdragon  
-      - Axolotl  
-      - Breeze  
-      - Wither  
-      - Warden  
-      - Iron Golem  
-      - Goat  
-      - Ravager  
-      - Creeper  
-      - Sniffer  
-      - Strider  
-      - Panda  
-      - Frog  
-      - Fox  
-      - Enderman  
-      - Camel  
-      - Shulker  
-      - Turtle  
-      - Chicken  
-      - Armadillo  
-      - Evoker  
-      - Vindicator  
-      - Villager  
-      - Witch  
-      - Pillager  
-      - Slime  
-      - Llama  
-      - Magma Cube  
-      - Polar Bear  
-      - Trader Llama  
-      - Wandering Trader  
-      - Dolphin  
-      - Cow  
-      - Pig  
-      - Cat  
-      - Wolf  
-      - Phantom  
-      - Emperor  
-      - Dark Father  
+      - 42 Minecraft Mobs
+      - 2 Special
    - Train Platform Sign  
       - Platform 1 to 9  
    - Ticket Machine DB (Deutsche Bahn)  
@@ -207,11 +165,7 @@
          - Red Grape Pomace (Red Grapes)  
          - White Grape Pomace (White Grapes)  
       - Ores  
-         - Deepslate Trixium Ore  
-         - Deepslate Findium Ore  
-         - Deepslate Uranium Ore  
-         - Deepslate Paladium Ore  
-         - Deepslate Green Paladium Ore  
+         - Deepslate Trixium, Findium, Uranium, Paladium, Green Paladium Ore   
 
 #### Deletions  
 - Recipes  
