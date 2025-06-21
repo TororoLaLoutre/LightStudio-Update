@@ -1,11 +1,12 @@
 # Changelog - LightStudio Update
 
-## 1.21.1 - V.2.0.4 - In Development
+## 1.21.1 - V.2.0.6 - In Development
 
 #### Changes  
 - General  
    - Ported from 1.20.1 to 1.21.1  
-   - Using NeoForge instead of Forge  
+   - Using NeoForge instead of Forge 
+   - Replaced custom block textures in my mod with the original Minecraft versions  
 - Recipes  
    - New recipes for  
       - Blank Music Disc  
@@ -14,18 +15,21 @@
       - Cobblebreaker  
    - Some crafting recipes are now shapeless  
 - Textures  
-   - New texture for Traffic Light Template  
-   - Replaced custom block textures in my mod with the original Minecraft versions  
+   -
 - Blocks  
    - Saltpeter now generates naturally in savanna, desert, and badland biomes (Y:30 to Y:80, 5 veins per chunk, up to 4 blocks per vein)  
-   - Traffic Lights and Signs are now visible in the Creative Tab  
-   - All traffic lights now emit light  
+   - Traffic
+      - Traffic Lights and Signs are now visible in the Creative Tab  
+      - All traffic lights now emit light  
+      - Fixed Channelizer bounding box  
+      - New model for Traffic Cone  
+      - New texture for Traffic Light Template 
    - Removed "Creative Only!" text from Road Blocks descriptions  
-   - Fixed Channelizer bounding box  
    - Rewrote the code of Secret Stripped Oak & Spruce Door  
    - Ore Generation  
-      - Revamped generation height of all LSU's Ores  
-   - New model for Traffic Cone  
+      - Revamped generation height of all LSU's Ores 
+      - Vibranium Ore (DOES NOT GENERATE)  
+      - Unobtainium Ore (DOES NOT GENERATE)   
    - Grape Bush  
       - Now begins growing after 20 minutes (instead of 10), and fully matures after 30 minutes (instead of 20)  
       - Deals damage like Sweet Berry Bush  
@@ -33,15 +37,16 @@
    - Sap Extractor  
       - Now drops Sap Bucket instead of Bottle of Sap  
       - Can only be placed on Maple Log  
-   - Vibranium Ore (DOES NOT GENERATE)  
-   - Unobtainium Ore (DOES NOT GENERATE)  
+   - Gui Rewamp
+      - Steelworks Foundry
 - Items  
    - Frying Pan can now be used as a weapon  
    - Updated code for Recall Potion  
    - Updated code for Nuclear Bomb  
    - Wine Bottles now stack up to 16 (previously 64)  
    - Added descriptions to Strength Orb, Speed Orb, and Heal Orb  
-   - Andesite Alloy (from the Create mod)  
+   - Andesite Alloy (from the Create mod) 
+   - Raw Diamond & Raw Emerald now drop without flying everywhere
 - Others  
    - Saddle no longer generates in dungeon loot chests  
    - New creative tabs  
@@ -73,6 +78,11 @@
       - Omen, Waves, Lava Chicken (From Minecraft Movie), Jingle SNCF  
    - Admin Menu Phone  
    - Camouflage Paste  
+   - Legendary Stone (WIP)
+      - Christmas Stone
+      - Halloween Stone
+   - Bucket (DOES NOT COLLECT AND PLACE WATER) 
+      - Wooden, Brick, Clay Bucket
 - Blocks  
    - Grape Crate  
       - Red & White Grapes  
@@ -107,10 +117,16 @@
       - Silver Ore (DOES NOT GENERATE)  
       - Silver Block  
       - Raw Silver  
-   - Train Pantograph  
-      - Up & Down variants  
-   - Track End Stop Buffer  
-   - Train Buffer  
+   - Train
+      - Pantograph  
+         - Up & Down variants  
+      - Track End Stop Buffer  
+      - Train Buffer 
+      - Train Platform Sign  (NO CRAFT) 
+         - Platform 1 to 9  
+      - Ticket Machine DB (Deutsche Bahn) - (NO CRAFT) 
+      - Destroyed Track (NO CRAFT) 
+         - 3 variants
    - Secret Doors  
       - Secret Oak, Spruce Log Door  
       - Secret Andesite Door  
@@ -119,32 +135,33 @@
       - Secret Deepslate, Deepslate Bricks, Deepslate Tiles Door  
       - Secret Netherrack Door  
    - Defused TNT  
-   - Air Conditioner (no craft)  
-      - Wall Mounted Indoor & Outdoor  
-      - Ground Mounted Outdoor  
-   - Weapon Rack (no craft) / (NEEDS TEXTURE BUG FIX)  
-      - Empty, SPAS-12, M4 & HK MP5  
-   - TV (no craft)  
-      - CRT TV  
-   - Light (no craft)  
-      - Ground Floodlight On & Off  
-      - Wall Floodlight On & Off  
-   - Chemical Protective Clothing (no craft)  
-      - Wall mounted with & without  
-   - Wall Mounted Fire Extinguisher (no craft)  
+   - Furniture (NO CRAFT) 
+      - Air Conditioner 
+         - Wall Mounted Indoor & Outdoor  
+         - Ground Mounted Outdoor  
+      - Weapon Rack (NEEDS TEXTURE BUG FIX)  
+         - Empty, SPAS-12, M4 & HK MP5  
+      - TV  
+         - CRT TV  
+      - Light 
+         - Ground Floodlight On & Off  
+         - Wall Floodlight On & Off  
+      - Chemical Protective Clothing
+         - Wall mounted with & without  
+      - Wall Mounted Fire Extinguisher 
+      - Aircraft Seat 
+      - Barrier Gate & Barrier Gate Pole
+      - Forklift
+      - Crash Dummy
    - Sawmill (Replaces Wood Stripper)  
-   - Plushies (no craft)  
+   - Plushies (NO CRAFT)  
       - 42 Minecraft Mobs
-      - 2 Special
-   - Train Platform Sign  
-      - Platform 1 to 9  
-   - Ticket Machine DB (Deutsche Bahn)  
+      - 2 Special 
 - Recipes  
    - Saddle  
    - Crate  
       - Wooden & Metal variants  
    - Steel Pillar  
-   - Tuff (lava + cobblestone + andesite)  
    - Create Mod  
       - Mixing  
          - Tuff (Andesite + Cobblestone + Lava)  
@@ -166,6 +183,7 @@
    - Removed temporary recipe for saltpeter  
    - Removed recipe for Spring Water  
    - Removed recipe for Campfire & Soul Campfire  
+   - Removed recipe for Margical Water Bucket
 - Fluids  
    - Angelic Water  
 - Blocks  
