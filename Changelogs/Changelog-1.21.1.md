@@ -15,9 +15,9 @@
       - Cobblebreaker  
    - Some crafting recipes are now shapeless  
 - Textures  
-   -
+   - Tin Ore (NEED NEW TEXTURE)
 - Blocks  
-   - Saltpeter now generates naturally in savanna, desert, and badland biomes (Y:30 to Y:80, 5 veins per chunk, up to 4 blocks per vein)  
+   - Saltpeter now generates naturally in savanna, desert, and badland biomes (Y:30 to Y:80, 5 veins per    chunk, up to 4 blocks per vein)  
    - Traffic
       - Traffic Lights and Signs are now visible in the Creative Tab  
       - All traffic lights now emit light  
@@ -114,8 +114,8 @@
    - Brick Chimney (DOES NOT GENERATE SMOKE)  
       - Clean & Dirty variants  
    - Silver  
-      - Silver Ore (DOES NOT GENERATE)  
-      - Silver Block  
+      - Silver Ore 
+      - Silver Block (NEED TEXTURE)
       - Raw Silver  
    - Train
       - Pantograph  
@@ -124,8 +124,7 @@
       - Train Buffer 
       - Train Platform Sign  (NO CRAFT) 
          - Platform 1 to 9  
-      - Ticket Machine DB (Deutsche Bahn) - (NO CRAFT) 
-      - Destroyed Track (NO CRAFT) 
+      - Destroyed Track
          - 3 variants
    - Secret Doors  
       - Secret Oak, Spruce Log Door  
@@ -153,10 +152,13 @@
       - Barrier Gate & Barrier Gate Pole
       - Forklift
       - Crash Dummy
+      - Plushies  
+         - 42 Minecraft Mobs
+         - 2 Special 
    - Sawmill (Replaces Wood Stripper)  
-   - Plushies (NO CRAFT)  
-      - 42 Minecraft Mobs
-      - 2 Special 
+   - Ores  
+      - Deepslate
+         - Trixium, Findium, Uranium, Paladium, Green Paladium Ore  
 - Recipes  
    - Saddle  
    - Crate  
@@ -172,9 +174,7 @@
       - Compacting  
          - Apple Must (Apple)  
          - Red Grape Pomace (Red Grapes)  
-         - White Grape Pomace (White Grapes)  
-      - Ores  
-         - Deepslate Trixium, Findium, Uranium, Paladium, Green Paladium Ore   
+         - White Grape Pomace (White Grapes)   
 
 #### Deletions  
 - Recipes  
@@ -197,6 +197,18 @@
       - Trixium Ore  
       - Findium Ore  
       - Uranium Ore  
+   - Industrial Iron Block
+   - Bolted Industrilal Iron
+   - Cast Iron Block Pillar
+   - Industrial Iron Pillar
+   - Steel Pillar
+   - Glowing Steel Pillar
+   - Amethyst Pillar
+   - Amethyst Tiles
+   - Amethyst Bricks
+   - Polished Amethyst
+   - Cast iron Block
+   - Reinforced Glass
 - Items  
    - Pickaxe Of The Gods  
    - Dragonite Set  
@@ -205,6 +217,7 @@
    - Cinder Brick  
    - Home Gem (replaced by Recall Potion)  
    - Reinforced Rod  
+   - Cast Iron
 
 ## Version - Serial Number
 
