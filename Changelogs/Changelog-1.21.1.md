@@ -122,8 +122,9 @@
          - Up & Down variants  
       - Track End Stop Buffer  
       - Train Buffer 
-      - Train Platform Sign  (NO CRAFT) 
+      - Train Platform Sign 
          - Platform 1 to 9  
+         - Platform Template
       - Destroyed Track
          - 3 variants
    - Secret Doors  
@@ -218,6 +219,8 @@
    - Home Gem (replaced by Recall Potion)  
    - Reinforced Rod  
    - Cast Iron
+   - Raw Diamond 
+   - Raw Emerald
 
 ## Version - Serial Number
 
