@@ -75,7 +75,7 @@
    - Pantograph  
       - Insulator, Unfired Insulator, Iron Tube   
    - Music Discs  
-      - Omen, Waves, Lava Chicken (From Minecraft Movie), Jingle SNCF  
+      - Lava Chicken (From Minecraft Movie), Jingle SNCF  
    - Admin Menu Phone  
    - Camouflage Paste  
    - Legendary Stone (WIP)
@@ -92,7 +92,6 @@
       - Black, Red, White, Yellow variants  
    - Small Industrial Lamp  
       - Black, Red, White, Yellow variants  
-   - Cyber Computer (decorative)  
    - Wine Barrel  
    - Copper Lamp  
    - Rail Bridge  
@@ -100,7 +99,7 @@
    - Weather Detector  
    - Desk Bell (from the Create mod)  
    - Andesite Casing (from the Create mod)  
-   - Raw Magnetite Block  
+   - Raw Magnetite Block
    - Metal Girder (from the Create mod)  
       - Metal Girder, Girder Pole, Girder Junction, Girder End   
    - Traffic Barrel  
@@ -175,15 +174,15 @@
       - Compacting  
          - Apple Must (Apple)  
          - Red Grape Pomace (Red Grapes)  
-         - White Grape Pomace (White Grapes)   
+         - White Grape Pomace (White Grapes)  
+      - New recipe for Campfire & Soul Campfire  
 
 #### Deletions  
 - Recipes  
    - Removed recipe for Lava Pickaxe (code will not be updated)  
    - Removed recipe for Lava Ingot  
    - Removed temporary recipe for saltpeter  
-   - Removed recipe for Spring Water  
-   - Removed recipe for Campfire & Soul Campfire  
+   - Removed recipe for Spring Water   
    - Removed recipe for Margical Water Bucket
 - Fluids  
    - Angelic Water  
