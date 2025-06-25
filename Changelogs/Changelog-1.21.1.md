@@ -13,6 +13,8 @@
       - Refiner Hammer  
       - Steelworks Foundry  
       - Cobblebreaker  
+      - Elytra
+   - Almost all items and blocks without a proper recipe can be temporarily crafted in a Stonecutter using the Temporary Recipe Item.
    - Some crafting recipes are now shapeless  
 - Textures  
    - Tin
@@ -96,6 +98,15 @@
       - Halloween Stone
    - Bucket (DOES NOT COLLECT AND PLACE WATER) 
       - Wooden, Brick, Clay Bucket
+   - Temporary Recipe
+   - Coins (NEED MACHINE TO MAKE THEM)
+      - Copper
+      - Iron
+      - Gold
+      - Emerald
+      - Diamond
+      - Netherite
+      - Creative
 - Blocks  
    - Grape Crate  
       - Red & White Grapes  
@@ -151,11 +162,11 @@
       - Secret Deepslate, Deepslate Bricks, Deepslate Tiles Door  
       - Secret Netherrack Door  
    - Defused TNT  
-   - Furniture (NO CRAFT) 
+   - Furniture 
       - Air Conditioner 
          - Wall Mounted Indoor & Outdoor  
          - Ground Mounted Outdoor  
-      - Weapon Rack (NEEDS TEXTURE BUG FIX)  
+      - Weapon Rack  
          - Empty, SPAS-12, M4 & HK MP5  
       - TV  
          - CRT TV  
@@ -196,11 +207,9 @@
 
 #### Deletions  
 - Recipes  
-   - Removed recipe for Lava Pickaxe (code will not be updated)  
-   - Removed recipe for Lava Ingot  
    - Removed temporary recipe for saltpeter  
    - Removed recipe for Spring Water   
-   - Removed recipe for Margical Water Bucket
+   - Removed recipe for Magical Water Bucket
 - Fluids  
    - Angelic Water  
 - Blocks  
@@ -237,6 +246,9 @@
    - Cast Iron
    - Raw Diamond 
    - Raw Emerald
+   - Lava Ingot
+   - Lava Pickaxe
+   - Synthetic Elytrons
 
 ## Version - Serial Number
 
