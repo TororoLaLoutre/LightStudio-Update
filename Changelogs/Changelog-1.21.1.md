@@ -15,7 +15,18 @@
       - Cobblebreaker  
    - Some crafting recipes are now shapeless  
 - Textures  
-   - Tin Ore (NEED NEW TEXTURE)
+   - Tin
+      - Tin Ingot
+      - Raw Tin
+      - Tin Block
+   - Bronze
+      - Brinze Block
+      - Bronze Ingot
+   - Uranium
+      - Uranium Ingot
+      - Uranium Block
+      - Raw Uranium
+      - Deepslate Uranium Ore
 - Blocks  
    - Saltpeter now generates naturally in savanna, desert, and badland biomes (Y:30 to Y:80, 5 veins per    chunk, up to 4 blocks per vein)  
    - Traffic
@@ -39,6 +50,9 @@
       - Can only be placed on Maple Log  
    - Gui Rewamp
       - Steelworks Foundry
+   - Limestone
+      - No longer generates naturally
+      - Can now only be obtained through crafting
 - Items  
    - Frying Pan can now be used as a weapon  
    - Updated code for Recall Potion  
@@ -114,8 +128,12 @@
       - Clean & Dirty variants  
    - Silver  
       - Silver Ore 
-      - Silver Block (NEED TEXTURE)
-      - Raw Silver  
+      - Silver Block
+      - Raw Silver 
+   - Tin 
+      - Raw Tin Block 
+   - Uranium
+      - Raw Uranium Block
    - Train
       - Pantograph  
          - Up & Down variants  
