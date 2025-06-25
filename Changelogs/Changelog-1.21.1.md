@@ -20,7 +20,7 @@
       - Raw Tin
       - Tin Block
    - Bronze
-      - Brinze Block
+      - Bronze Block
       - Bronze Ingot
    - Uranium
       - Uranium Ingot
@@ -48,19 +48,18 @@
    - Sap Extractor  
       - Now drops Sap Bucket instead of Bottle of Sap  
       - Can only be placed on Maple Log  
-   - Gui Rewamp
+   - Gui Revamp
       - Steelworks Foundry
    - Limestone
-      - No longer generates naturally
-      - Can now only be obtained through crafting
+      - Removed natural generation
+      - Now only obtainable via crafting
 - Items  
    - Frying Pan can now be used as a weapon  
    - Updated code for Recall Potion  
    - Updated code for Nuclear Bomb  
    - Wine Bottles now stack up to 16 (previously 64)  
    - Added descriptions to Strength Orb, Speed Orb, and Heal Orb  
-   - Andesite Alloy (from the Create mod) 
-   - Raw Diamond & Raw Emerald now drop without flying everywhere
+   - Andesite Alloy Ingot
 - Others  
    - Saddle no longer generates in dungeon loot chests  
    - New creative tabs  
@@ -137,7 +136,7 @@
    - Train
       - Pantograph  
          - Up & Down variants  
-      - Track End Stop Buffer  
+      - Track End Buffer Stop  
       - Train Buffer 
       - Train Platform Sign 
          - Platform 1 to 9  
@@ -187,7 +186,7 @@
          - Tuff (Andesite + Cobblestone + Lava)  
          - Dripstone (Granite + Cobblestone + Lava)  
       - Crushing  
-         - Zing Nugget (Tuff)  
+         - Zinc Nugget (Tuff)  
          - Clay Ball & Copper Nugget (Dripstone)  
       - Compacting  
          - Apple Must (Apple)  
