@@ -211,7 +211,8 @@
    - Create Mod  
       - Mixing  
          - Tuff (Andesite + Cobblestone + Lava)  
-         - Dripstone (Granite + Cobblestone + Lava)  
+         - Dripstone (Granite + Cobblestone + Lava) 
+         - Rooted Dirt (Dirt + Hanging Moss) 
       - Crushing  
          - Zinc Nugget (Tuff)  
          - Clay Ball & Copper Nugget (Dripstone)  
