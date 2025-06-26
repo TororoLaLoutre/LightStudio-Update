@@ -187,6 +187,22 @@
    - Ores  
       - Deepslate
          - Trixium, Findium, Uranium, Paladium, Green Paladium Ore  
+   - Roof
+      - Deepslate
+         - Deepslate Roof
+         - Deepslate Roof Attic Closed 
+         - Deepslate Roof Inner
+         - Deepslate Roof Lower
+         - Deepslate Roof Lower Inner
+         - Deepslate Roof Lower Outer
+         - Deepslate Roof Outer
+         - Deepslate Roof Top
+         - Deepslate Roof Top End
+         - Deepslate Roof Top Outer
+         - Deepslate Roof Upper Lower
+         - Deepslate Roof Upper Lower Inner
+         - Deepslate Roof Upper Lower Outer
+
 - Recipes  
    - Saddle  
    - Crate  
