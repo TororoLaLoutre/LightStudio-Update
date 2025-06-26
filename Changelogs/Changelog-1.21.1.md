@@ -1,6 +1,6 @@
 # Changelog - LightStudio Update
 
-## 1.21.1 - V.2.0.7 - In Development
+## 1.21.1 - V.2.0.8 - In Development
 
 #### Changes  
 - General  
