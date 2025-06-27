@@ -99,14 +99,15 @@
    - Bucket (DOES NOT COLLECT AND PLACE WATER) 
       - Wooden, Brick, Clay Bucket
    - Temporary Recipe
-   - Coins (NEED MACHINE TO MAKE THEM)
-      - Copper
-      - Iron
-      - Gold
-      - Emerald
-      - Diamond
-      - Netherite
-      - Creative
+   - Coins 
+      - Normal & Incomplete Variants
+         - Copper
+         - Iron
+         - Gold
+         - Emerald
+         - Diamond
+         - Netherite
+         - Creative
 - Blocks  
    - Grape Crate  
       - Red & White Grapes  
@@ -202,7 +203,9 @@
          - Deepslate Roof Upper Lower
          - Deepslate Roof Upper Lower Inner
          - Deepslate Roof Upper Lower Outer
-
+- Fluids
+   - Molten Metal
+      - Copper, Iron, Gold, Brass, Bronze, Netherite, Silver, Steel, Tin, Zinc
 - Recipes  
    - Saddle  
    - Crate  
