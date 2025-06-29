@@ -1,6 +1,6 @@
 # Changelog - LightStudio Update
 
-## 1.21.1 - V.2.0.8 - In Development
+## 1.21.1 - V.2.0.9 - In Development
 
 #### Changes  
 - General  
@@ -108,6 +108,7 @@
          - Diamond
          - Netherite
          - Creative
+   - Powdered Sulfur
 - Blocks  
    - Grape Crate  
       - Red & White Grapes  
@@ -206,6 +207,9 @@
 - Fluids
    - Molten Metal
       - Copper, Iron, Gold, Brass, Bronze, Netherite, Silver, Steel, Tin, Zinc
+   - Ingot Mold
+      - Copper, Iron, Gold, Brass, Bronze, Netherite, Silver, Steel, Tin, Zinc
+      - Empty Mold
 - Recipes  
    - Saddle  
    - Crate  
@@ -269,6 +273,7 @@
    - Lava Ingot
    - Lava Pickaxe
    - Synthetic Elytrons
+   - Sulfur
 
 ## Version - Serial Number
 
