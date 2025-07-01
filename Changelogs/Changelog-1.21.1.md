@@ -123,8 +123,6 @@
    - Rail Bridge  
       - Oak & Spruce, powered and unpowered variants  
    - Weather Detector  
-   - Desk Bell (from the Create mod)  
-   - Andesite Casing (from the Create mod)  
    - Raw Magnetite Block
    - Metal Girder (from the Create mod)  
       - Metal Girder, Girder Pole, Girder Junction, Girder End   
@@ -186,6 +184,7 @@
          - 42 Minecraft Mobs
          - 2 Special 
    - Sawmill (Replaces Wood Stripper)  
+   - Chopping Block (To cut Oak Log into Firewood)
    - Ores  
       - Deepslate
          - Trixium, Findium, Uranium, Paladium, Green Paladium Ore  
