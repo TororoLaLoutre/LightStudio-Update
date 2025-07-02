@@ -134,8 +134,6 @@
       - Maple Stripped Log  
       - Maple Planks  
       - Maple Leaves  
-   - Brick Chimney (DOES NOT GENERATE SMOKE)  
-      - Clean & Dirty variants  
    - Silver  
       - Silver Ore 
       - Silver Block
@@ -258,6 +256,8 @@
    - Polished Amethyst
    - Cast iron Block
    - Reinforced Glass
+   - Brick Chimney
+      - Clean & Dirty variants  
 - Items  
    - Pickaxe Of The Gods  
    - Dragonite Set  
