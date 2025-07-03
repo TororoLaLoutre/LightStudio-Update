@@ -100,7 +100,7 @@
       - Wooden, Brick, Clay Bucket
    - Temporary Recipe
    - Coins 
-      - Normal & Incomplete Variants
+      - Normal, Incomplete & Rejected Variants
          - Copper
          - Iron
          - Gold
