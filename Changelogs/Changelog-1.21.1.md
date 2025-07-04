@@ -109,6 +109,11 @@
          - Netherite
          - Creative
    - Powdered Sulfur
+   - Graphite
+   -  Graphite Mold
+      - Coin, Plate, Block, Gear, Rod, Ingot, Nugget
+   - Coke
+
 - Blocks  
    - Grape Crate  
       - Red & White Grapes  
@@ -273,6 +278,7 @@
    - Lava Pickaxe
    - Synthetic Elytrons
    - Sulfur
+   - Coal Dust
 
 ## Version - Serial Number
 
