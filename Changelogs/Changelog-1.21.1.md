@@ -29,6 +29,9 @@
       - Uranium Block
       - Raw Uranium
       - Deepslate Uranium Ore
+   - Mixed Endium
+      - Mixed Endium Ingot
+      - Mixed Endium Armor Set
 - Blocks  
    - Saltpeter now generates naturally in savanna, desert, and badland biomes (Y:30 to Y:80, 5 veins per    chunk, up to 4 blocks per vein)  
    - Traffic
