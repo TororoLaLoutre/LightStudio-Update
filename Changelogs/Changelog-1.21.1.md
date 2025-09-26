@@ -107,8 +107,8 @@
          - Copper
          - Iron
          - Gold
-         - Emerald
-         - Diamond
+         - Emerald (NEED MOLTEN EMERALD)
+         - Diamond (NEED MOLTEN DIAMOND)
          - Netherite
          - Creative
    - Powdered Sulfur
