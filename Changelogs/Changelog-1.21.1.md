@@ -116,6 +116,12 @@
    -  Graphite Mold
       - Coin, Plate, Block, Gear, Rod, Ingot, Nugget
    - Coke
+   - Vibration Mechanism & Incomplete Vibration Mechanism
+   - Rose Quartz Sheet
+   - Radar (NEED FONCTIONALITY)
+   - Rods
+      - Coal Rod
+      - Incomplete Blaze Rod
 
 - Blocks  
    - Grape Crate  
