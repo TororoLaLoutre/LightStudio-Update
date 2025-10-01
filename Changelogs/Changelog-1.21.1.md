@@ -122,6 +122,10 @@
    - Rods
       - Coal Rod
       - Incomplete Blaze Rod
+   - Canvas
+   - Cotton
+      - Cotton Seeds
+      - Cotton Boll
 
 - Blocks  
    - Grape Crate  
@@ -215,6 +219,11 @@
          - Deepslate Roof Upper Lower
          - Deepslate Roof Upper Lower Inner
          - Deepslate Roof Upper Lower Outer
+   - Cotton
+      - Cotton Stage 0 to Stage 3 
+      - Cotton Crate
+      - Wild Cotton 
+
 - Fluids
    - Molten Metal
       - Copper, Iron, Gold, Brass, Bronze, Netherite, Silver, Steel, Tin, Zinc
