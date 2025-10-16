@@ -225,6 +225,13 @@
       - Wild Cotton 
    - Mechanism Block
    - Wooden Stake & Wooden Stake Wall
+   - Nuclear Bomb (Medium Performance)             (no recipe)
+      - Little Boy (Radius: 20x20 |Blocks destroyed: 33,510)
+      - Fat Man (Radius: 40x40 |Blocks destroyed: 268,083)
+      - Hydrogen (Radius: 80x80 |Blocks destroyed: 2,142,661)
+      - Castle Bravo (Radius: 160x160 |Blocks destroyed: 17,141,287)
+      - Tsar Bomba (Radius: 320x320 |Blocks destroyed: 137,130,297)
+      - Antimater (Radius: 640x640 |Blocks destroyed: 1,097,041,524)
 
 - Fluids
    - Molten Metal
