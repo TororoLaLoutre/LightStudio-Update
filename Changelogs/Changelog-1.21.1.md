@@ -219,11 +219,12 @@
          - Deepslate Roof Upper Lower
          - Deepslate Roof Upper Lower Inner
          - Deepslate Roof Upper Lower Outer
-- Cotton
-   - Cotton Stage 0 to Stage 3 
-   - Cotton Crate
-   - Wild Cotton 
-- Mechanism Block
+   - Cotton
+      - Cotton Stage 0 to Stage 3 
+      - Cotton Crate
+      - Wild Cotton 
+   - Mechanism Block
+   - Wooden Stake & Wooden Stake Wall
 
 - Fluids
    - Molten Metal
