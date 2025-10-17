@@ -58,6 +58,10 @@
    - Limestone
       - Removed natural generation
       - Now only obtainable via crafting
+   - Doors
+      - Fix sound
+   - Spikes
+      - Now waterlog
 - Items  
    - Frying Pan can now be used as a weapon  
    - Updated code for Recall Potion  
@@ -232,6 +236,18 @@
       - Castle Bravo (Radius: 160x160 |Blocks destroyed: 17,141,287)
       - Tsar Bomba (Radius: 320x320 |Blocks destroyed: 137,130,297)
       - Antimater (Radius: 640x640 |Blocks destroyed: 1,097,041,524)
+   - Food Crate
+      - Apple Crate
+      - Beetroot Crate
+      - Berry Crate
+      - Brown Mushroom Crate
+      - Carrot Crate
+      - Cod Crate
+      - Egg Crate
+      - Glow Berries Crate
+      - Golden Apple Crate
+      - Golden Carrot Crate
+      - Poisonous Potato Crate
 
 - Fluids
    - Molten Metal
