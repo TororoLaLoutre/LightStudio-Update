@@ -195,14 +195,12 @@
          - Wall Floodlight On & Off  
       - Chemical Protective Clothing
          - Wall mounted with & without  
-      - Wall Mounted Fire Extinguisher 
-      - Aircraft Seat 
+      - Wall Mounted Fire Extinguisher  
       - Barrier Gate & Barrier Gate Pole
       - Forklift
       - Crash Dummy
       - Plushies  
-         - 42 Minecraft Mobs
-         - 2 Special 
+         - 39 Minecraft Mobs
    - Sawmill (Replaces Wood Stripper)  
    - Chopping Block (To cut Oak Log into Firewood)
    - Ores  
@@ -322,6 +320,7 @@
    - Synthetic Elytrons
    - Sulfur
    - Coal Dust
+   - Canned Food
 
 ## Version - Serial Number
 
