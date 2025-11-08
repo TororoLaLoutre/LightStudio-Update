@@ -1,10 +1,11 @@
 # Changelog - LightStudio Update
 
-## 1.21.1 - V.2.0.9 - In Development
+## 1.21.1 - V.2.0.13 - In Development
 
 #### Changes  
 - General  
    - Ported from 1.20.1 to 1.21.1  
+   - Uptate Mcreator from 2025.2 to 2025.3
    - Using NeoForge instead of Forge 
    - Replaced custom block textures in my mod with the original Minecraft versions  
 - Recipes  
@@ -46,7 +47,7 @@
       - Revamped generation height of all LSU's Ores 
       - Vibranium Ore (DOES NOT GENERATE)  
       - Unobtainium Ore (DOES NOT GENERATE)   
-   - Grape Bush  
+   - Grape Bush (DOES NOT TICK) 
       - Now begins growing after 20 minutes (instead of 10), and fully matures after 30 minutes (instead of 20)  
       - Deals damage like Sweet Berry Bush  
       - Removed model offset  
@@ -119,7 +120,7 @@
    - Graphite
    -  Graphite Mold
       - Coin, Plate, Block, Gear, Rod, Ingot, Nugget
-   - Coke
+   - Coke (NO RECIPE)
    - Vibration Mechanism & Incomplete Vibration Mechanism
    - Rose Quartz Sheet
    - Radar (NEED FONCTIONALITY)
@@ -127,9 +128,16 @@
       - Coal Rod
       - Incomplete Blaze Rod
    - Canvas
-   - Cotton
+   - Cotton 
       - Cotton Seeds
       - Cotton Boll
+   - Nugget
+      - Steel
+      - Tin
+      - Bronze
+   - Dust
+      - Coal
+      - Charcoal
 
 - Blocks  
    - Grape Crate  
@@ -221,7 +229,7 @@
          - Deepslate Roof Upper Lower
          - Deepslate Roof Upper Lower Inner
          - Deepslate Roof Upper Lower Outer
-   - Cotton
+   - Cotton (DOES NOT TICK) 
       - Cotton Stage 0 to Stage 3 
       - Cotton Crate
       - Wild Cotton 
@@ -304,6 +312,7 @@
    - Reinforced Glass
    - Brick Chimney
       - Clean & Dirty variants  
+   - Nuclear Bomb
 - Items  
    - Pickaxe Of The Gods  
    - Dragonite Set  
@@ -319,7 +328,6 @@
    - Lava Pickaxe
    - Synthetic Elytrons
    - Sulfur
-   - Coal Dust
    - Canned Food
 
 ## Version - Serial Number
