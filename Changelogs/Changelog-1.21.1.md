@@ -138,6 +138,9 @@
    - Dust
       - Coal
       - Charcoal
+   - Plate
+      - Bronze
+      - Tin
 
 - Blocks  
    - Grape Crate  
