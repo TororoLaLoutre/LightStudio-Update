@@ -33,8 +33,7 @@
    - Mixed Endium
       - Mixed Endium Ingot
       - Mixed Endium Armor Set
-- Blocks  
-   - Saltpeter now generates naturally in savanna, desert, and badland biomes (Y:30 to Y:80, 5 veins per    chunk, up to 4 blocks per vein)  
+- Blocks   
    - Traffic
       - Traffic Lights and Signs are now visible in the Creative Tab  
       - All traffic lights now emit light  
@@ -104,8 +103,6 @@
    - Legendary Stone (WIP)
       - Christmas Stone
       - Halloween Stone
-   - Bucket (DOES NOT COLLECT AND PLACE WATER) 
-      - Wooden, Brick, Clay Bucket
    - Temporary Recipe
    - Coins 
       - Normal, Incomplete & Rejected Variants
@@ -285,7 +282,6 @@
 
 #### Deletions  
 - Recipes  
-   - Removed temporary recipe for saltpeter  
    - Removed recipe for Spring Water   
    - Removed recipe for Magical Water Bucket
 - Fluids  
@@ -316,6 +312,7 @@
    - Brick Chimney
       - Clean & Dirty variants  
    - Nuclear Bomb
+   - Saltpeter Block
 - Items  
    - Pickaxe Of The Gods  
    - Dragonite Set  
@@ -332,6 +329,7 @@
    - Synthetic Elytrons
    - Sulfur
    - Canned Food
+   - Saltpeter
 
 ## Version - Serial Number
 
